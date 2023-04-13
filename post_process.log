@@ -1493,3 +1493,1389 @@ Normalized coordinates range:
 2023-04-13 14:21:49 INFO: Max normalized x: 1.0
 2023-04-13 14:21:49 INFO: Min normalized y: 0.0
 2023-04-13 14:21:49 INFO: Max normalized y: 1.0
+2023-04-13 15:23:26 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:23:26 INFO: Number of points: 6762
+2023-04-13 15:23:26 INFO: Number of cells: 3264
+2023-04-13 15:23:26 INFO: Available data fields:
+2023-04-13 15:23:26 INFO: - p
+2023-04-13 15:23:26 INFO: - T
+2023-04-13 15:23:26 INFO: - U
+2023-04-13 15:23:26 INFO: - vorticity
+2023-04-13 15:23:26 INFO: Input parameters:
+2023-04-13 15:23:26 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:23:26 INFO: x_range: (0, 1)
+2023-04-13 15:23:26 INFO: y_range: (0, 1)
+2023-04-13 15:23:26 INFO: cmap: jet
+2023-04-13 15:23:26 INFO: grids: off
+2023-04-13 15:23:26 INFO: normalization: on
+2023-04-13 15:23:26 INFO: 
+Velocity data statistics:
+2023-04-13 15:23:26 INFO: Min velocity magnitude: 101323.5
+2023-04-13 15:23:26 INFO: Max velocity magnitude: 101382.5
+2023-04-13 15:23:26 INFO: Mean velocity magnitude: 101338.81
+2023-04-13 15:23:26 INFO: 
+Normalized coordinates range:
+2023-04-13 15:23:26 INFO: Min normalized x: 0.0
+2023-04-13 15:23:26 INFO: Max normalized x: 1.0
+2023-04-13 15:23:26 INFO: Min normalized y: 0.0
+2023-04-13 15:23:26 INFO: Max normalized y: 1.0
+2023-04-13 15:28:30 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:28:30 INFO: Number of points: 6762
+2023-04-13 15:28:30 INFO: Number of cells: 3264
+2023-04-13 15:28:30 INFO: Available data fields:
+2023-04-13 15:28:30 INFO: - p
+2023-04-13 15:28:30 INFO: - T
+2023-04-13 15:28:30 INFO: - U
+2023-04-13 15:28:30 INFO: - vorticity
+2023-04-13 15:28:30 INFO: Input parameters:
+2023-04-13 15:28:30 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:28:30 INFO: x_range: (0, 1)
+2023-04-13 15:28:30 INFO: y_range: (0, 1)
+2023-04-13 15:28:30 INFO: cmap: jet
+2023-04-13 15:28:30 INFO: grids: off
+2023-04-13 15:28:30 INFO: normalization: on
+2023-04-13 15:28:30 INFO: 
+Temperature data statistics:
+2023-04-13 15:28:30 INFO: Min temperature: 302.3855
+2023-04-13 15:28:30 INFO: Max temperature: 303.3755
+2023-04-13 15:28:30 INFO: Mean temperature: 302.62634
+2023-04-13 15:28:59 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:28:59 INFO: Number of points: 6762
+2023-04-13 15:28:59 INFO: Number of cells: 3264
+2023-04-13 15:28:59 INFO: Available data fields:
+2023-04-13 15:28:59 INFO: - p
+2023-04-13 15:28:59 INFO: - T
+2023-04-13 15:28:59 INFO: - U
+2023-04-13 15:28:59 INFO: - vorticity
+2023-04-13 15:28:59 INFO: Input parameters:
+2023-04-13 15:28:59 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:28:59 INFO: x_range: (0, 1)
+2023-04-13 15:28:59 INFO: y_range: (0, 0.1)
+2023-04-13 15:28:59 INFO: cmap: jet
+2023-04-13 15:28:59 INFO: grids: off
+2023-04-13 15:28:59 INFO: normalization: on
+2023-04-13 15:28:59 INFO: 
+Temperature data statistics:
+2023-04-13 15:28:59 INFO: Min temperature: 302.3855
+2023-04-13 15:28:59 INFO: Max temperature: 303.3755
+2023-04-13 15:28:59 INFO: Mean temperature: 302.62634
+2023-04-13 15:31:26 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:31:26 INFO: Number of points: 6762
+2023-04-13 15:31:26 INFO: Number of cells: 3264
+2023-04-13 15:31:26 INFO: Available data fields:
+2023-04-13 15:31:26 INFO: - p
+2023-04-13 15:31:26 INFO: - T
+2023-04-13 15:31:26 INFO: - U
+2023-04-13 15:31:26 INFO: - vorticity
+2023-04-13 15:31:26 INFO: Input parameters:
+2023-04-13 15:31:26 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:31:26 INFO: x_range: (0, 1)
+2023-04-13 15:31:26 INFO: y_range: (0, 0.1)
+2023-04-13 15:31:26 INFO: cmap: jet
+2023-04-13 15:31:26 INFO: grids: off
+2023-04-13 15:31:26 INFO: normalization: on
+2023-04-13 15:31:26 INFO: 
+Temperature data statistics:
+2023-04-13 15:31:26 INFO: Min temperature: 302.3855
+2023-04-13 15:31:26 INFO: Max temperature: 303.3755
+2023-04-13 15:31:26 INFO: Mean temperature: 302.62634
+2023-04-13 15:31:26 INFO: 
+Normalized coordinates range:
+2023-04-13 15:31:26 INFO: Min normalized x: 0.0
+2023-04-13 15:31:26 INFO: Max normalized x: 1.0
+2023-04-13 15:31:26 INFO: Min normalized y: 0.0
+2023-04-13 15:31:26 INFO: Max normalized y: 1.0
+2023-04-13 15:31:52 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:31:52 INFO: Number of points: 6762
+2023-04-13 15:31:52 INFO: Number of cells: 3264
+2023-04-13 15:31:52 INFO: Available data fields:
+2023-04-13 15:31:52 INFO: - p
+2023-04-13 15:31:52 INFO: - T
+2023-04-13 15:31:52 INFO: - U
+2023-04-13 15:31:52 INFO: - vorticity
+2023-04-13 15:31:52 INFO: Input parameters:
+2023-04-13 15:31:52 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:31:52 INFO: x_range: (0, 1)
+2023-04-13 15:31:52 INFO: y_range: (0, 0.1)
+2023-04-13 15:31:52 INFO: cmap: jet
+2023-04-13 15:31:52 INFO: grids: off
+2023-04-13 15:31:52 INFO: normalization: on
+2023-04-13 15:31:52 INFO: 
+Temperature data statistics:
+2023-04-13 15:31:52 INFO: Min temperature: 302.3855
+2023-04-13 15:31:52 INFO: Max temperature: 303.3755
+2023-04-13 15:31:52 INFO: Mean temperature: 302.62634
+2023-04-13 15:31:52 INFO: 
+Normalized coordinates range:
+2023-04-13 15:31:52 INFO: Min normalized x: 0.0
+2023-04-13 15:31:52 INFO: Max normalized x: 1.0
+2023-04-13 15:31:52 INFO: Min normalized y: 0.0
+2023-04-13 15:31:52 INFO: Max normalized y: 1.0
+2023-04-13 15:32:10 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:32:10 INFO: Number of points: 6762
+2023-04-13 15:32:10 INFO: Number of cells: 3264
+2023-04-13 15:32:10 INFO: Available data fields:
+2023-04-13 15:32:10 INFO: - p
+2023-04-13 15:32:10 INFO: - T
+2023-04-13 15:32:10 INFO: - U
+2023-04-13 15:32:10 INFO: - vorticity
+2023-04-13 15:32:10 INFO: Input parameters:
+2023-04-13 15:32:10 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:32:10 INFO: x_range: (0, 1)
+2023-04-13 15:32:10 INFO: y_range: (0, 1)
+2023-04-13 15:32:10 INFO: cmap: jet
+2023-04-13 15:32:10 INFO: grids: off
+2023-04-13 15:32:10 INFO: normalization: on
+2023-04-13 15:32:10 INFO: 
+Temperature data statistics:
+2023-04-13 15:32:10 INFO: Min temperature: 302.3855
+2023-04-13 15:32:10 INFO: Max temperature: 303.3755
+2023-04-13 15:32:10 INFO: Mean temperature: 302.62634
+2023-04-13 15:32:10 INFO: 
+Normalized coordinates range:
+2023-04-13 15:32:10 INFO: Min normalized x: 0.0
+2023-04-13 15:32:10 INFO: Max normalized x: 1.0
+2023-04-13 15:32:10 INFO: Min normalized y: 0.0
+2023-04-13 15:32:10 INFO: Max normalized y: 1.0
+2023-04-13 15:36:23 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:36:23 INFO: Number of points: 6762
+2023-04-13 15:36:23 INFO: Number of cells: 3264
+2023-04-13 15:36:23 INFO: Available data fields:
+2023-04-13 15:36:23 INFO: - p
+2023-04-13 15:36:23 INFO: - T
+2023-04-13 15:36:23 INFO: - U
+2023-04-13 15:36:23 INFO: - vorticity
+2023-04-13 15:36:23 INFO: Input parameters:
+2023-04-13 15:36:23 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:36:23 INFO: x_range: (0, 1)
+2023-04-13 15:36:23 INFO: y_range: (0, 1)
+2023-04-13 15:36:23 INFO: cmap: jet
+2023-04-13 15:36:23 INFO: grids: off
+2023-04-13 15:36:23 INFO: normalization: on
+2023-04-13 15:36:23 INFO: 
+Temperature data statistics:
+2023-04-13 15:36:23 INFO: Min temperature: 0.0
+2023-04-13 15:36:23 INFO: Max temperature: 69.71885
+2023-04-13 15:36:23 INFO: Mean temperature: 54.854935
+2023-04-13 15:36:23 INFO: Min temperature: 0.0
+2023-04-13 15:36:23 INFO: Max temperature: 0.31932276
+2023-04-13 15:36:23 INFO: Mean temperature: 0.055114802
+2023-04-13 15:36:23 INFO: 
+Normalized coordinates range:
+2023-04-13 15:36:23 INFO: Min normalized x: 0.0
+2023-04-13 15:36:23 INFO: Max normalized x: 1.0
+2023-04-13 15:36:23 INFO: Min normalized y: 0.0
+2023-04-13 15:36:23 INFO: Max normalized y: 1.0
+2023-04-13 15:38:35 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:38:35 INFO: Number of points: 6762
+2023-04-13 15:38:35 INFO: Number of cells: 3264
+2023-04-13 15:38:35 INFO: Available data fields:
+2023-04-13 15:38:35 INFO: - p
+2023-04-13 15:38:35 INFO: - T
+2023-04-13 15:38:35 INFO: - U
+2023-04-13 15:38:35 INFO: - vorticity
+2023-04-13 15:38:35 INFO: Input parameters:
+2023-04-13 15:38:35 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 15:38:35 INFO: x_range: (0, 1)
+2023-04-13 15:38:35 INFO: y_range: (0, 1)
+2023-04-13 15:38:35 INFO: cmap: jet
+2023-04-13 15:38:35 INFO: grids: off
+2023-04-13 15:38:35 INFO: normalization: on
+2023-04-13 15:38:35 INFO: 
+Temperature data statistics:
+2023-04-13 15:38:35 INFO: Min temperature: 0.0
+2023-04-13 15:38:35 INFO: Max temperature: 69.71885
+2023-04-13 15:38:35 INFO: Mean temperature: 54.854935
+2023-04-13 15:38:35 INFO: Min temperature: 0.0
+2023-04-13 15:38:35 INFO: Max temperature: 0.31932276
+2023-04-13 15:38:35 INFO: Mean temperature: 0.055114802
+2023-04-13 15:38:35 INFO: 
+Normalized coordinates range:
+2023-04-13 15:38:35 INFO: Min normalized x: 0.0
+2023-04-13 15:38:35 INFO: Max normalized x: 1.0
+2023-04-13 15:38:35 INFO: Min normalized y: 0.0
+2023-04-13 15:38:35 INFO: Max normalized y: 1.0
+2023-04-13 16:29:01 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:29:01 INFO: Number of points: 6762
+2023-04-13 16:29:01 INFO: Number of cells: 3264
+2023-04-13 16:29:01 INFO: Available data fields:
+2023-04-13 16:29:01 INFO: - p
+2023-04-13 16:29:01 INFO: - T
+2023-04-13 16:29:01 INFO: - U
+2023-04-13 16:29:01 INFO: - vorticity
+2023-04-13 16:29:01 INFO: Input parameters:
+2023-04-13 16:29:01 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:29:01 INFO: x_range: (0, 1)
+2023-04-13 16:29:01 INFO: y_range: (0, 1)
+2023-04-13 16:29:01 INFO: cmap: jet
+2023-04-13 16:29:01 INFO: grids: off
+2023-04-13 16:29:01 INFO: normalization: on
+2023-04-13 16:29:01 INFO: 
+Temperature data statistics:
+2023-04-13 16:29:01 INFO: Min temperature: 302.3855
+2023-04-13 16:29:01 INFO: Max temperature: 303.3755
+2023-04-13 16:29:01 INFO: Mean temperature: 302.62634
+2023-04-13 16:29:01 INFO: 
+Normalized coordinates range:
+2023-04-13 16:29:01 INFO: Min normalized x: 0.0
+2023-04-13 16:29:01 INFO: Max normalized x: 1.0
+2023-04-13 16:29:01 INFO: Min normalized y: 0.0
+2023-04-13 16:29:01 INFO: Max normalized y: 1.0
+2023-04-13 16:29:25 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:29:25 INFO: Number of points: 6762
+2023-04-13 16:29:25 INFO: Number of cells: 3264
+2023-04-13 16:29:25 INFO: Available data fields:
+2023-04-13 16:29:25 INFO: - p
+2023-04-13 16:29:25 INFO: - T
+2023-04-13 16:29:25 INFO: - U
+2023-04-13 16:29:25 INFO: - vorticity
+2023-04-13 16:29:25 INFO: Input parameters:
+2023-04-13 16:29:25 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:29:25 INFO: x_range: (0, 1)
+2023-04-13 16:29:25 INFO: y_range: (0, 1)
+2023-04-13 16:29:25 INFO: cmap: jet
+2023-04-13 16:29:25 INFO: grids: on
+2023-04-13 16:29:25 INFO: normalization: on
+2023-04-13 16:29:25 INFO: 
+Temperature data statistics:
+2023-04-13 16:29:25 INFO: Min temperature: 302.3855
+2023-04-13 16:29:25 INFO: Max temperature: 303.3755
+2023-04-13 16:29:25 INFO: Mean temperature: 302.62634
+2023-04-13 16:29:25 INFO: 
+Normalized coordinates range:
+2023-04-13 16:29:25 INFO: Min normalized x: 0.0
+2023-04-13 16:29:25 INFO: Max normalized x: 1.0
+2023-04-13 16:29:25 INFO: Min normalized y: 0.0
+2023-04-13 16:29:25 INFO: Max normalized y: 1.0
+2023-04-13 16:46:04 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:46:04 INFO: Number of points: 6762
+2023-04-13 16:46:04 INFO: Number of cells: 3264
+2023-04-13 16:46:04 INFO: Available data fields:
+2023-04-13 16:46:04 INFO: - p
+2023-04-13 16:46:04 INFO: - T
+2023-04-13 16:46:04 INFO: - U
+2023-04-13 16:46:04 INFO: - vorticity
+2023-04-13 16:46:04 INFO: Input parameters:
+2023-04-13 16:46:04 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:46:04 INFO: x_range: (0, 1)
+2023-04-13 16:46:04 INFO: y_range: (0, 1)
+2023-04-13 16:46:04 INFO: cmap: jet
+2023-04-13 16:46:04 INFO: grids: on
+2023-04-13 16:46:04 INFO: normalization: on
+2023-04-13 16:46:04 INFO: 
+Temperature data statistics:
+2023-04-13 16:46:04 INFO: Min temperature: 302.3855
+2023-04-13 16:46:04 INFO: Max temperature: 303.3755
+2023-04-13 16:46:04 INFO: Mean temperature: 302.62634
+2023-04-13 16:46:04 INFO: 
+Normalized coordinates range:
+2023-04-13 16:46:04 INFO: Min normalized x: 0.0
+2023-04-13 16:46:04 INFO: Max normalized x: 1.0
+2023-04-13 16:46:04 INFO: Min normalized y: 0.0
+2023-04-13 16:46:04 INFO: Max normalized y: 1.0
+2023-04-13 16:47:54 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:47:54 INFO: Number of points: 6762
+2023-04-13 16:47:54 INFO: Number of cells: 3264
+2023-04-13 16:47:54 INFO: Available data fields:
+2023-04-13 16:47:54 INFO: - p
+2023-04-13 16:47:54 INFO: - T
+2023-04-13 16:47:54 INFO: - U
+2023-04-13 16:47:54 INFO: - vorticity
+2023-04-13 16:47:54 INFO: Input parameters:
+2023-04-13 16:47:54 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:47:54 INFO: x_range: (0, 1)
+2023-04-13 16:47:54 INFO: y_range: (0, 1)
+2023-04-13 16:47:54 INFO: cmap: jet
+2023-04-13 16:47:54 INFO: grids: on
+2023-04-13 16:47:54 INFO: normalization: on
+2023-04-13 16:47:54 INFO: 
+Temperature data statistics:
+2023-04-13 16:47:54 INFO: Min temperature: 302.3855
+2023-04-13 16:47:54 INFO: Max temperature: 303.3755
+2023-04-13 16:47:54 INFO: Mean temperature: 302.62634
+2023-04-13 16:47:54 INFO: 
+Normalized coordinates range:
+2023-04-13 16:47:54 INFO: Min normalized x: 0.0
+2023-04-13 16:47:54 INFO: Max normalized x: 1.0
+2023-04-13 16:47:54 INFO: Min normalized y: 0.0
+2023-04-13 16:47:54 INFO: Max normalized y: 1.0
+2023-04-13 16:48:09 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:48:09 INFO: Number of points: 6762
+2023-04-13 16:48:09 INFO: Number of cells: 3264
+2023-04-13 16:48:09 INFO: Available data fields:
+2023-04-13 16:48:09 INFO: - p
+2023-04-13 16:48:09 INFO: - T
+2023-04-13 16:48:09 INFO: - U
+2023-04-13 16:48:09 INFO: - vorticity
+2023-04-13 16:48:09 INFO: Input parameters:
+2023-04-13 16:48:09 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:48:09 INFO: x_range: (0, 1)
+2023-04-13 16:48:09 INFO: y_range: (0, 1)
+2023-04-13 16:48:09 INFO: cmap: jet
+2023-04-13 16:48:09 INFO: grids: on
+2023-04-13 16:48:09 INFO: normalization: on
+2023-04-13 16:48:09 INFO: 
+Temperature data statistics:
+2023-04-13 16:48:09 INFO: Min temperature: 302.3855
+2023-04-13 16:48:09 INFO: Max temperature: 303.3755
+2023-04-13 16:48:09 INFO: Mean temperature: 302.62634
+2023-04-13 16:48:09 INFO: 
+Normalized coordinates range:
+2023-04-13 16:48:09 INFO: Min normalized x: 0.0
+2023-04-13 16:48:09 INFO: Max normalized x: 1.0
+2023-04-13 16:48:09 INFO: Min normalized y: 0.0
+2023-04-13 16:48:09 INFO: Max normalized y: 1.0
+2023-04-13 16:49:58 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:49:58 INFO: Number of points: 6762
+2023-04-13 16:49:58 INFO: Number of cells: 3264
+2023-04-13 16:49:58 INFO: Available data fields:
+2023-04-13 16:49:58 INFO: - p
+2023-04-13 16:49:58 INFO: - T
+2023-04-13 16:49:58 INFO: - U
+2023-04-13 16:49:58 INFO: - vorticity
+2023-04-13 16:49:58 INFO: Input parameters:
+2023-04-13 16:49:58 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:49:58 INFO: x_range: (0, 1)
+2023-04-13 16:49:58 INFO: y_range: (0, 1)
+2023-04-13 16:49:58 INFO: cmap: jet
+2023-04-13 16:49:58 INFO: grids: on
+2023-04-13 16:49:58 INFO: normalization: on
+2023-04-13 16:49:58 INFO: 
+Temperature data statistics:
+2023-04-13 16:49:58 INFO: Min temperature: 302.3855
+2023-04-13 16:49:58 INFO: Max temperature: 303.3755
+2023-04-13 16:49:58 INFO: Mean temperature: 302.62634
+2023-04-13 16:49:58 INFO: 
+Normalized coordinates range:
+2023-04-13 16:49:58 INFO: Min normalized x: 0.0
+2023-04-13 16:49:58 INFO: Max normalized x: 1.0
+2023-04-13 16:49:58 INFO: Min normalized y: 0.0
+2023-04-13 16:49:58 INFO: Max normalized y: 1.0
+2023-04-13 16:50:54 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:50:54 INFO: Number of points: 6762
+2023-04-13 16:50:54 INFO: Number of cells: 3264
+2023-04-13 16:50:54 INFO: Available data fields:
+2023-04-13 16:50:54 INFO: - p
+2023-04-13 16:50:54 INFO: - T
+2023-04-13 16:50:54 INFO: - U
+2023-04-13 16:50:54 INFO: - vorticity
+2023-04-13 16:50:54 INFO: Input parameters:
+2023-04-13 16:50:54 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:50:54 INFO: x_range: (0, 1)
+2023-04-13 16:50:54 INFO: y_range: (0, 1)
+2023-04-13 16:50:54 INFO: cmap: jet
+2023-04-13 16:50:54 INFO: grids: on
+2023-04-13 16:50:54 INFO: normalization: on
+2023-04-13 16:50:54 INFO: 
+Temperature data statistics:
+2023-04-13 16:50:54 INFO: Min temperature: 302.3855
+2023-04-13 16:50:54 INFO: Max temperature: 303.3755
+2023-04-13 16:50:54 INFO: Mean temperature: 302.62634
+2023-04-13 16:50:54 INFO: 
+Normalized coordinates range:
+2023-04-13 16:50:54 INFO: Min normalized x: 0.0
+2023-04-13 16:50:54 INFO: Max normalized x: 1.0
+2023-04-13 16:50:54 INFO: Min normalized y: 0.0
+2023-04-13 16:50:54 INFO: Max normalized y: 1.0
+2023-04-13 16:51:12 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:51:12 INFO: Number of points: 6762
+2023-04-13 16:51:12 INFO: Number of cells: 3264
+2023-04-13 16:51:12 INFO: Available data fields:
+2023-04-13 16:51:12 INFO: - p
+2023-04-13 16:51:12 INFO: - T
+2023-04-13 16:51:12 INFO: - U
+2023-04-13 16:51:12 INFO: - vorticity
+2023-04-13 16:51:12 INFO: Input parameters:
+2023-04-13 16:51:12 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:51:12 INFO: x_range: (0, 1)
+2023-04-13 16:51:12 INFO: y_range: (0, 1)
+2023-04-13 16:51:12 INFO: cmap: jet
+2023-04-13 16:51:12 INFO: grids: on
+2023-04-13 16:51:12 INFO: normalization: on
+2023-04-13 16:51:12 INFO: 
+Temperature data statistics:
+2023-04-13 16:51:12 INFO: Min temperature: 302.3855
+2023-04-13 16:51:12 INFO: Max temperature: 303.3755
+2023-04-13 16:51:12 INFO: Mean temperature: 302.62634
+2023-04-13 16:51:12 INFO: 
+Normalized coordinates range:
+2023-04-13 16:51:12 INFO: Min normalized x: 0.0
+2023-04-13 16:51:12 INFO: Max normalized x: 1.0
+2023-04-13 16:51:12 INFO: Min normalized y: 0.0
+2023-04-13 16:51:12 INFO: Max normalized y: 1.0
+2023-04-13 16:51:24 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:51:24 INFO: Number of points: 6762
+2023-04-13 16:51:24 INFO: Number of cells: 3264
+2023-04-13 16:51:24 INFO: Available data fields:
+2023-04-13 16:51:24 INFO: - p
+2023-04-13 16:51:24 INFO: - T
+2023-04-13 16:51:24 INFO: - U
+2023-04-13 16:51:24 INFO: - vorticity
+2023-04-13 16:51:24 INFO: Input parameters:
+2023-04-13 16:51:24 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:51:24 INFO: x_range: (0, 1)
+2023-04-13 16:51:24 INFO: y_range: (0, 1)
+2023-04-13 16:51:24 INFO: cmap: jet
+2023-04-13 16:51:24 INFO: grids: on
+2023-04-13 16:51:24 INFO: normalization: on
+2023-04-13 16:51:24 INFO: 
+Temperature data statistics:
+2023-04-13 16:51:24 INFO: Min temperature: 302.3855
+2023-04-13 16:51:24 INFO: Max temperature: 303.3755
+2023-04-13 16:51:24 INFO: Mean temperature: 302.62634
+2023-04-13 16:51:24 INFO: 
+Normalized coordinates range:
+2023-04-13 16:51:24 INFO: Min normalized x: 0.0
+2023-04-13 16:51:24 INFO: Max normalized x: 1.0
+2023-04-13 16:51:24 INFO: Min normalized y: 0.0
+2023-04-13 16:51:24 INFO: Max normalized y: 1.0
+2023-04-13 16:52:18 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:52:18 INFO: Number of points: 6762
+2023-04-13 16:52:18 INFO: Number of cells: 3264
+2023-04-13 16:52:18 INFO: Available data fields:
+2023-04-13 16:52:18 INFO: - p
+2023-04-13 16:52:18 INFO: - T
+2023-04-13 16:52:18 INFO: - U
+2023-04-13 16:52:18 INFO: - vorticity
+2023-04-13 16:52:18 INFO: Input parameters:
+2023-04-13 16:52:18 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:52:18 INFO: x_range: (0, 1)
+2023-04-13 16:52:18 INFO: y_range: (0, 1)
+2023-04-13 16:52:18 INFO: cmap: jet
+2023-04-13 16:52:18 INFO: grids: on
+2023-04-13 16:52:18 INFO: normalization: on
+2023-04-13 16:52:18 INFO: 
+Temperature data statistics:
+2023-04-13 16:52:18 INFO: Min temperature: 302.3855
+2023-04-13 16:52:18 INFO: Max temperature: 303.3755
+2023-04-13 16:52:18 INFO: Mean temperature: 302.62634
+2023-04-13 16:52:18 INFO: 
+Normalized coordinates range:
+2023-04-13 16:52:18 INFO: Min normalized x: 0.0
+2023-04-13 16:52:18 INFO: Max normalized x: 1.0
+2023-04-13 16:52:18 INFO: Min normalized y: 0.0
+2023-04-13 16:52:18 INFO: Max normalized y: 1.0
+2023-04-13 16:52:26 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:52:26 INFO: Number of points: 6762
+2023-04-13 16:52:26 INFO: Number of cells: 3264
+2023-04-13 16:52:26 INFO: Available data fields:
+2023-04-13 16:52:26 INFO: - p
+2023-04-13 16:52:26 INFO: - T
+2023-04-13 16:52:26 INFO: - U
+2023-04-13 16:52:26 INFO: - vorticity
+2023-04-13 16:52:26 INFO: Input parameters:
+2023-04-13 16:52:26 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:52:26 INFO: x_range: (0, 1)
+2023-04-13 16:52:26 INFO: y_range: (0, 1)
+2023-04-13 16:52:26 INFO: cmap: jet
+2023-04-13 16:52:26 INFO: grids: on
+2023-04-13 16:52:26 INFO: normalization: on
+2023-04-13 16:52:26 INFO: 
+Temperature data statistics:
+2023-04-13 16:52:26 INFO: Min temperature: 302.3855
+2023-04-13 16:52:26 INFO: Max temperature: 303.3755
+2023-04-13 16:52:26 INFO: Mean temperature: 302.62634
+2023-04-13 16:52:26 INFO: 
+Normalized coordinates range:
+2023-04-13 16:52:26 INFO: Min normalized x: 0.0
+2023-04-13 16:52:26 INFO: Max normalized x: 1.0
+2023-04-13 16:52:26 INFO: Min normalized y: 0.0
+2023-04-13 16:52:26 INFO: Max normalized y: 1.0
+2023-04-13 16:53:06 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:53:06 INFO: Number of points: 6762
+2023-04-13 16:53:06 INFO: Number of cells: 3264
+2023-04-13 16:53:06 INFO: Available data fields:
+2023-04-13 16:53:06 INFO: - p
+2023-04-13 16:53:06 INFO: - T
+2023-04-13 16:53:06 INFO: - U
+2023-04-13 16:53:06 INFO: - vorticity
+2023-04-13 16:53:06 INFO: Input parameters:
+2023-04-13 16:53:06 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:53:06 INFO: x_range: (0, 1)
+2023-04-13 16:53:06 INFO: y_range: (0, 1)
+2023-04-13 16:53:06 INFO: cmap: jet
+2023-04-13 16:53:06 INFO: grids: on
+2023-04-13 16:53:06 INFO: normalization: on
+2023-04-13 16:53:06 INFO: 
+Temperature data statistics:
+2023-04-13 16:53:06 INFO: Min temperature: 302.3855
+2023-04-13 16:53:06 INFO: Max temperature: 303.3755
+2023-04-13 16:53:06 INFO: Mean temperature: 302.62634
+2023-04-13 16:53:06 INFO: 
+Normalized coordinates range:
+2023-04-13 16:53:06 INFO: Min normalized x: 0.0
+2023-04-13 16:53:06 INFO: Max normalized x: 1.0
+2023-04-13 16:53:06 INFO: Min normalized y: 0.0
+2023-04-13 16:53:06 INFO: Max normalized y: 1.0
+2023-04-13 16:54:59 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:54:59 INFO: Number of points: 6762
+2023-04-13 16:54:59 INFO: Number of cells: 3264
+2023-04-13 16:54:59 INFO: Available data fields:
+2023-04-13 16:54:59 INFO: - p
+2023-04-13 16:54:59 INFO: - T
+2023-04-13 16:54:59 INFO: - U
+2023-04-13 16:54:59 INFO: - vorticity
+2023-04-13 16:54:59 INFO: Input parameters:
+2023-04-13 16:54:59 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 16:54:59 INFO: x_range: (0, 1)
+2023-04-13 16:54:59 INFO: y_range: (0, 1)
+2023-04-13 16:54:59 INFO: cmap: jet
+2023-04-13 16:54:59 INFO: grids: on
+2023-04-13 16:54:59 INFO: normalization: on
+2023-04-13 16:54:59 INFO: 
+Temperature data statistics:
+2023-04-13 16:54:59 INFO: Min temperature: 302.3855
+2023-04-13 16:54:59 INFO: Max temperature: 303.3755
+2023-04-13 16:54:59 INFO: Mean temperature: 302.62634
+2023-04-13 16:54:59 INFO: 
+Normalized coordinates range:
+2023-04-13 16:54:59 INFO: Min normalized x: 0.0
+2023-04-13 16:54:59 INFO: Max normalized x: 1.0
+2023-04-13 16:54:59 INFO: Min normalized y: 0.0
+2023-04-13 16:54:59 INFO: Max normalized y: 1.0
+2023-04-13 17:20:43 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:20:43 INFO: Number of points: 6762
+2023-04-13 17:20:43 INFO: Number of cells: 3264
+2023-04-13 17:20:43 INFO: Available data fields:
+2023-04-13 17:20:43 INFO: - p
+2023-04-13 17:20:43 INFO: - T
+2023-04-13 17:20:43 INFO: - U
+2023-04-13 17:20:43 INFO: - vorticity
+2023-04-13 17:20:43 INFO: Input parameters:
+2023-04-13 17:20:43 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:20:43 INFO: x_range: (0, 1)
+2023-04-13 17:20:43 INFO: y_range: (0, 1)
+2023-04-13 17:20:43 INFO: cmap: jet
+2023-04-13 17:20:43 INFO: grids: on
+2023-04-13 17:20:43 INFO: normalization: on
+2023-04-13 17:20:43 INFO: 
+Temperature data statistics:
+2023-04-13 17:20:43 INFO: Min temperature: 302.3855
+2023-04-13 17:20:43 INFO: Max temperature: 303.3755
+2023-04-13 17:20:43 INFO: Mean temperature: 302.62634
+2023-04-13 17:20:43 INFO: 
+Normalized coordinates range:
+2023-04-13 17:20:43 INFO: Min normalized x: 0.0
+2023-04-13 17:20:43 INFO: Max normalized x: 1.0
+2023-04-13 17:20:43 INFO: Min normalized y: 0.0
+2023-04-13 17:20:43 INFO: Max normalized y: 1.0
+2023-04-13 17:23:27 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:23:27 INFO: Number of points: 6762
+2023-04-13 17:23:27 INFO: Number of cells: 3264
+2023-04-13 17:23:27 INFO: Available data fields:
+2023-04-13 17:23:27 INFO: - p
+2023-04-13 17:23:27 INFO: - T
+2023-04-13 17:23:27 INFO: - U
+2023-04-13 17:23:27 INFO: - vorticity
+2023-04-13 17:23:27 INFO: Input parameters:
+2023-04-13 17:23:27 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:23:27 INFO: x_range: (0, 1)
+2023-04-13 17:23:27 INFO: y_range: (0, 1)
+2023-04-13 17:23:27 INFO: cmap: jet
+2023-04-13 17:23:27 INFO: grids: on
+2023-04-13 17:23:27 INFO: normalization: on
+2023-04-13 17:23:27 INFO: 
+Temperature data statistics:
+2023-04-13 17:23:27 INFO: Min temperature: 302.3855
+2023-04-13 17:23:27 INFO: Max temperature: 303.3755
+2023-04-13 17:23:27 INFO: Mean temperature: 302.62634
+2023-04-13 17:23:27 INFO: 
+Normalized coordinates range:
+2023-04-13 17:23:27 INFO: Min normalized x: 0.0
+2023-04-13 17:23:27 INFO: Max normalized x: 1.0
+2023-04-13 17:23:27 INFO: Min normalized y: 0.0
+2023-04-13 17:23:27 INFO: Max normalized y: 1.0
+2023-04-13 17:27:59 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:27:59 INFO: Number of points: 6762
+2023-04-13 17:27:59 INFO: Number of cells: 3264
+2023-04-13 17:27:59 INFO: Available data fields:
+2023-04-13 17:27:59 INFO: - p
+2023-04-13 17:27:59 INFO: - T
+2023-04-13 17:27:59 INFO: - U
+2023-04-13 17:27:59 INFO: - vorticity
+2023-04-13 17:27:59 INFO: Input parameters:
+2023-04-13 17:27:59 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:27:59 INFO: x_range: (0, 1)
+2023-04-13 17:27:59 INFO: y_range: (0, 1)
+2023-04-13 17:27:59 INFO: cmap: jet
+2023-04-13 17:27:59 INFO: grids: on
+2023-04-13 17:27:59 INFO: normalization: on
+2023-04-13 17:27:59 INFO: 
+Temperature data statistics:
+2023-04-13 17:27:59 INFO: Min temperature: 302.3855
+2023-04-13 17:27:59 INFO: Max temperature: 303.3755
+2023-04-13 17:27:59 INFO: Mean temperature: 302.62634
+2023-04-13 17:27:59 INFO: 
+Normalized coordinates range:
+2023-04-13 17:27:59 INFO: Min normalized x: 0.0
+2023-04-13 17:27:59 INFO: Max normalized x: 1.0
+2023-04-13 17:27:59 INFO: Min normalized y: 0.0
+2023-04-13 17:27:59 INFO: Max normalized y: 1.0
+2023-04-13 17:42:32 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:42:32 INFO: Number of points: 6762
+2023-04-13 17:42:32 INFO: Number of cells: 3264
+2023-04-13 17:42:32 INFO: Available data fields:
+2023-04-13 17:42:32 INFO: - p
+2023-04-13 17:42:32 INFO: - T
+2023-04-13 17:42:32 INFO: - U
+2023-04-13 17:42:32 INFO: - vorticity
+2023-04-13 17:42:32 INFO: Input parameters:
+2023-04-13 17:42:32 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:42:32 INFO: x_range: (0, 1)
+2023-04-13 17:42:32 INFO: y_range: (0, 1)
+2023-04-13 17:42:32 INFO: cmap: jet
+2023-04-13 17:42:32 INFO: grids: on
+2023-04-13 17:42:32 INFO: normalization: on
+2023-04-13 17:42:32 INFO: 
+Temperature data statistics:
+2023-04-13 17:42:32 INFO: Min temperature: 0.0
+2023-04-13 17:42:32 INFO: Max temperature: 69.71885
+2023-04-13 17:42:32 INFO: Mean temperature: 54.854935
+2023-04-13 17:42:32 INFO: Min temperature: 0.0
+2023-04-13 17:42:32 INFO: Max temperature: 0.31932276
+2023-04-13 17:42:32 INFO: Mean temperature: 0.055114802
+2023-04-13 17:42:32 INFO: 
+Normalized coordinates range:
+2023-04-13 17:42:32 INFO: Min normalized x: 0.0
+2023-04-13 17:42:32 INFO: Max normalized x: 1.0
+2023-04-13 17:42:32 INFO: Min normalized y: 0.0
+2023-04-13 17:42:32 INFO: Max normalized y: 1.0
+2023-04-13 17:43:54 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:43:54 INFO: Number of points: 6762
+2023-04-13 17:43:54 INFO: Number of cells: 3264
+2023-04-13 17:43:54 INFO: Available data fields:
+2023-04-13 17:43:54 INFO: - p
+2023-04-13 17:43:54 INFO: - T
+2023-04-13 17:43:54 INFO: - U
+2023-04-13 17:43:54 INFO: - vorticity
+2023-04-13 17:43:54 INFO: Input parameters:
+2023-04-13 17:43:54 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:43:54 INFO: x_range: (0, 1)
+2023-04-13 17:43:54 INFO: y_range: (0, 1)
+2023-04-13 17:43:54 INFO: cmap: jet
+2023-04-13 17:43:54 INFO: grids: on
+2023-04-13 17:43:54 INFO: normalization: on
+2023-04-13 17:43:54 INFO: 
+Temperature data statistics:
+2023-04-13 17:43:54 INFO: Min temperature: 0.0
+2023-04-13 17:43:54 INFO: Max temperature: 69.71885
+2023-04-13 17:43:54 INFO: Mean temperature: 54.854935
+2023-04-13 17:43:54 INFO: Min temperature: 0.0
+2023-04-13 17:43:54 INFO: Max temperature: 0.31932276
+2023-04-13 17:43:54 INFO: Mean temperature: 0.055114802
+2023-04-13 17:43:54 INFO: 
+Normalized coordinates range:
+2023-04-13 17:43:54 INFO: Min normalized x: 0.0
+2023-04-13 17:43:54 INFO: Max normalized x: 1.0
+2023-04-13 17:43:54 INFO: Min normalized y: 0.0
+2023-04-13 17:43:54 INFO: Max normalized y: 1.0
+2023-04-13 17:46:54 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:46:54 INFO: Number of points: 6762
+2023-04-13 17:46:54 INFO: Number of cells: 3264
+2023-04-13 17:46:54 INFO: Available data fields:
+2023-04-13 17:46:54 INFO: - p
+2023-04-13 17:46:54 INFO: - T
+2023-04-13 17:46:54 INFO: - U
+2023-04-13 17:46:54 INFO: - vorticity
+2023-04-13 17:46:54 INFO: Input parameters:
+2023-04-13 17:46:54 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:46:54 INFO: x_range: (0, 1)
+2023-04-13 17:46:54 INFO: y_range: (0, 1)
+2023-04-13 17:46:54 INFO: cmap: jet
+2023-04-13 17:46:54 INFO: grids: on
+2023-04-13 17:46:54 INFO: normalization: on
+2023-04-13 17:46:54 INFO: 
+Velocity data statistics:
+2023-04-13 17:46:54 INFO: Min velocity magnitude: 101323.5
+2023-04-13 17:46:54 INFO: Max velocity magnitude: 101382.5
+2023-04-13 17:46:54 INFO: Mean velocity magnitude: 101338.81
+2023-04-13 17:46:54 INFO: 
+Normalized coordinates range:
+2023-04-13 17:46:54 INFO: Min normalized x: 0.0
+2023-04-13 17:46:54 INFO: Max normalized x: 1.0
+2023-04-13 17:46:54 INFO: Min normalized y: 0.0
+2023-04-13 17:46:54 INFO: Max normalized y: 1.0
+2023-04-13 17:48:17 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:48:17 INFO: Number of points: 6762
+2023-04-13 17:48:17 INFO: Number of cells: 3264
+2023-04-13 17:48:17 INFO: Available data fields:
+2023-04-13 17:48:17 INFO: - p
+2023-04-13 17:48:17 INFO: - T
+2023-04-13 17:48:17 INFO: - U
+2023-04-13 17:48:17 INFO: - vorticity
+2023-04-13 17:48:17 INFO: Input parameters:
+2023-04-13 17:48:17 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:48:17 INFO: x_range: (0, 0.5)
+2023-04-13 17:48:17 INFO: y_range: (0, 0.2)
+2023-04-13 17:48:17 INFO: cmap: jet
+2023-04-13 17:48:17 INFO: grids: on
+2023-04-13 17:48:17 INFO: normalization: off
+2023-04-13 17:48:17 INFO: 
+Velocity data statistics:
+2023-04-13 17:48:17 INFO: Min velocity magnitude: 101323.5
+2023-04-13 17:48:17 INFO: Max velocity magnitude: 101382.5
+2023-04-13 17:48:17 INFO: Mean velocity magnitude: 101338.81
+2023-04-13 17:48:48 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:48:48 INFO: Number of points: 6762
+2023-04-13 17:48:48 INFO: Number of cells: 3264
+2023-04-13 17:48:48 INFO: Available data fields:
+2023-04-13 17:48:48 INFO: - p
+2023-04-13 17:48:48 INFO: - T
+2023-04-13 17:48:48 INFO: - U
+2023-04-13 17:48:48 INFO: - vorticity
+2023-04-13 17:48:48 INFO: Input parameters:
+2023-04-13 17:48:48 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:48:48 INFO: x_range: (-0.1, 0.3)
+2023-04-13 17:48:48 INFO: y_range: (0, 0.2)
+2023-04-13 17:48:48 INFO: cmap: jet
+2023-04-13 17:48:48 INFO: grids: on
+2023-04-13 17:48:48 INFO: normalization: off
+2023-04-13 17:48:48 INFO: 
+Velocity data statistics:
+2023-04-13 17:48:48 INFO: Min velocity magnitude: 101323.5
+2023-04-13 17:48:48 INFO: Max velocity magnitude: 101382.5
+2023-04-13 17:48:48 INFO: Mean velocity magnitude: 101338.81
+2023-04-13 17:49:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:49:29 INFO: Number of points: 6762
+2023-04-13 17:49:29 INFO: Number of cells: 3264
+2023-04-13 17:49:29 INFO: Available data fields:
+2023-04-13 17:49:29 INFO: - p
+2023-04-13 17:49:29 INFO: - T
+2023-04-13 17:49:29 INFO: - U
+2023-04-13 17:49:29 INFO: - vorticity
+2023-04-13 17:49:29 INFO: Input parameters:
+2023-04-13 17:49:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:49:29 INFO: x_range: (-0.1, 0.3)
+2023-04-13 17:49:29 INFO: y_range: (0, 0.2)
+2023-04-13 17:49:29 INFO: cmap: jet
+2023-04-13 17:49:29 INFO: grids: off
+2023-04-13 17:49:29 INFO: normalization: on
+2023-04-13 17:49:29 INFO: 
+Velocity data statistics:
+2023-04-13 17:49:29 INFO: Min velocity magnitude: 101323.5
+2023-04-13 17:49:29 INFO: Max velocity magnitude: 101382.5
+2023-04-13 17:49:29 INFO: Mean velocity magnitude: 101338.81
+2023-04-13 17:49:29 INFO: 
+Normalized coordinates range:
+2023-04-13 17:49:29 INFO: Min normalized x: 0.0
+2023-04-13 17:49:29 INFO: Max normalized x: 1.0
+2023-04-13 17:49:29 INFO: Min normalized y: 0.0
+2023-04-13 17:49:29 INFO: Max normalized y: 1.0
+2023-04-13 17:49:41 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:49:41 INFO: Number of points: 6762
+2023-04-13 17:49:41 INFO: Number of cells: 3264
+2023-04-13 17:49:41 INFO: Available data fields:
+2023-04-13 17:49:41 INFO: - p
+2023-04-13 17:49:41 INFO: - T
+2023-04-13 17:49:41 INFO: - U
+2023-04-13 17:49:41 INFO: - vorticity
+2023-04-13 17:49:41 INFO: Input parameters:
+2023-04-13 17:49:41 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:49:41 INFO: x_range: (0, 0.3)
+2023-04-13 17:49:41 INFO: y_range: (0, 0.2)
+2023-04-13 17:49:41 INFO: cmap: jet
+2023-04-13 17:49:41 INFO: grids: off
+2023-04-13 17:49:41 INFO: normalization: on
+2023-04-13 17:49:41 INFO: 
+Velocity data statistics:
+2023-04-13 17:49:41 INFO: Min velocity magnitude: 101323.5
+2023-04-13 17:49:41 INFO: Max velocity magnitude: 101382.5
+2023-04-13 17:49:41 INFO: Mean velocity magnitude: 101338.81
+2023-04-13 17:49:41 INFO: 
+Normalized coordinates range:
+2023-04-13 17:49:41 INFO: Min normalized x: 0.0
+2023-04-13 17:49:41 INFO: Max normalized x: 1.0
+2023-04-13 17:49:41 INFO: Min normalized y: 0.0
+2023-04-13 17:49:41 INFO: Max normalized y: 1.0
+2023-04-13 17:51:52 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:51:52 INFO: Number of points: 6762
+2023-04-13 17:51:52 INFO: Number of cells: 3264
+2023-04-13 17:51:52 INFO: Available data fields:
+2023-04-13 17:51:52 INFO: - p
+2023-04-13 17:51:52 INFO: - T
+2023-04-13 17:51:52 INFO: - U
+2023-04-13 17:51:52 INFO: - vorticity
+2023-04-13 17:51:52 INFO: Input parameters:
+2023-04-13 17:51:52 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:51:52 INFO: x_range: (0, 0.3)
+2023-04-13 17:51:52 INFO: y_range: (0, 0.2)
+2023-04-13 17:51:52 INFO: cmap: jet
+2023-04-13 17:51:52 INFO: grids: on
+2023-04-13 17:51:52 INFO: normalization: on
+2023-04-13 17:51:52 INFO: 
+Velocity data statistics:
+2023-04-13 17:51:52 INFO: Min velocity magnitude: 101323.5
+2023-04-13 17:51:52 INFO: Max velocity magnitude: 101382.5
+2023-04-13 17:51:52 INFO: Mean velocity magnitude: 101338.81
+2023-04-13 17:51:52 INFO: 
+Normalized coordinates range:
+2023-04-13 17:51:52 INFO: Min normalized x: 0.0
+2023-04-13 17:51:52 INFO: Max normalized x: 1.0
+2023-04-13 17:51:52 INFO: Min normalized y: 0.0
+2023-04-13 17:51:52 INFO: Max normalized y: 1.0
+2023-04-13 17:56:28 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:56:28 INFO: Number of points: 6762
+2023-04-13 17:56:28 INFO: Number of cells: 3264
+2023-04-13 17:56:28 INFO: Available data fields:
+2023-04-13 17:56:28 INFO: - p
+2023-04-13 17:56:28 INFO: - T
+2023-04-13 17:56:28 INFO: - U
+2023-04-13 17:56:28 INFO: - vorticity
+2023-04-13 17:56:28 INFO: Input parameters:
+2023-04-13 17:56:28 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 17:56:28 INFO: x_range: (0, 0.3)
+2023-04-13 17:56:28 INFO: y_range: (0, 0.2)
+2023-04-13 17:56:28 INFO: cmap: jet
+2023-04-13 17:56:28 INFO: grids: on
+2023-04-13 17:56:28 INFO: normalization: on
+2023-04-13 17:56:28 INFO: 
+Velocity data statistics:
+2023-04-13 17:56:28 INFO: Min velocity magnitude: 101323.5
+2023-04-13 17:56:28 INFO: Max velocity magnitude: 101382.5
+2023-04-13 17:56:28 INFO: Mean velocity magnitude: 101338.81
+2023-04-13 17:56:28 INFO: 
+Normalized coordinates range:
+2023-04-13 17:56:28 INFO: Min normalized x: 0.0
+2023-04-13 17:56:28 INFO: Max normalized x: 1.0
+2023-04-13 17:56:28 INFO: Min normalized y: 0.0
+2023-04-13 17:56:28 INFO: Max normalized y: 1.0
+2023-04-13 18:07:01 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/test_files/blade_rough_1.vtk
+2023-04-13 18:07:01 INFO: Number of points: 92640
+2023-04-13 18:07:01 INFO: Number of cells: 182192
+2023-04-13 18:07:01 INFO: Available data fields:
+2023-04-13 18:07:01 INFO: Input parameters:
+2023-04-13 18:07:01 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/test_files/blade_rough_1.vtk
+2023-04-13 18:07:01 INFO: x_range: (0, 0.3)
+2023-04-13 18:07:01 INFO: y_range: (0, 0.2)
+2023-04-13 18:07:01 INFO: cmap: jet
+2023-04-13 18:07:01 INFO: grids: on
+2023-04-13 18:07:01 INFO: normalization: on
+2023-04-13 20:25:08 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 20:25:08 INFO: Number of points: 882
+2023-04-13 20:25:08 INFO: Number of cells: 400
+2023-04-13 20:25:08 INFO: Available data fields:
+2023-04-13 20:25:08 INFO: - U
+2023-04-13 20:25:08 INFO: Input parameters:
+2023-04-13 20:25:08 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 20:25:08 INFO: x_range: (0, 0.3)
+2023-04-13 20:25:08 INFO: y_range: (0, 0.2)
+2023-04-13 20:25:08 INFO: cmap: jet
+2023-04-13 20:25:08 INFO: grids: on
+2023-04-13 20:25:08 INFO: normalization: on
+2023-04-13 20:25:08 INFO: 
+Temperature data statistics:
+2023-04-13 20:25:08 INFO: Min temperature: -0.20070025
+2023-04-13 20:25:08 INFO: Max temperature: 1.0
+2023-04-13 20:25:08 INFO: Mean temperature: 0.030602258
+2023-04-13 20:25:08 INFO: Min temperature: 0.0
+2023-04-13 20:25:08 INFO: Max temperature: 0.0
+2023-04-13 20:25:08 INFO: Mean temperature: 0.0
+2023-04-13 20:25:08 INFO: 
+Normalized coordinates range:
+2023-04-13 20:25:08 INFO: Min normalized x: 0.0
+2023-04-13 20:25:08 INFO: Max normalized x: 1.0
+2023-04-13 20:25:08 INFO: Min normalized y: 0.0
+2023-04-13 20:25:08 INFO: Max normalized y: 1.0
+2023-04-13 20:26:27 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 20:26:27 INFO: Number of points: 882
+2023-04-13 20:26:27 INFO: Number of cells: 400
+2023-04-13 20:26:27 INFO: Available data fields:
+2023-04-13 20:26:27 INFO: - U
+2023-04-13 20:26:27 INFO: Input parameters:
+2023-04-13 20:26:27 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 20:26:27 INFO: x_range: (0, 0.3)
+2023-04-13 20:26:27 INFO: y_range: (0, 0.2)
+2023-04-13 20:26:27 INFO: cmap: jet
+2023-04-13 20:26:27 INFO: grids: on
+2023-04-13 20:26:27 INFO: normalization: on
+2023-04-13 20:26:27 INFO: 
+Temperature data statistics:
+2023-04-13 20:26:27 INFO: Min temperature: -0.20070025
+2023-04-13 20:26:27 INFO: Max temperature: 1.0
+2023-04-13 20:26:27 INFO: Mean temperature: 0.030602258
+2023-04-13 20:26:27 INFO: Min temperature: 0.0
+2023-04-13 20:26:27 INFO: Max temperature: 0.0
+2023-04-13 20:26:27 INFO: Mean temperature: 0.0
+2023-04-13 20:26:27 INFO: 
+Normalized coordinates range:
+2023-04-13 20:26:27 INFO: Min normalized x: 0.0
+2023-04-13 20:26:27 INFO: Max normalized x: 1.0
+2023-04-13 20:26:27 INFO: Min normalized y: 0.0
+2023-04-13 20:26:27 INFO: Max normalized y: 1.0
+2023-04-13 20:44:24 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 20:44:24 INFO: Number of points: 882
+2023-04-13 20:44:24 INFO: Number of cells: 400
+2023-04-13 20:48:50 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 20:48:50 INFO: Number of points: 882
+2023-04-13 20:48:50 INFO: Number of cells: 400
+2023-04-13 20:48:50 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 20:48:50 INFO: Available data fields:
+2023-04-13 20:48:50 INFO: - U
+2023-04-13 20:48:50 INFO: Input parameters:
+2023-04-13 20:48:50 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 20:48:50 INFO: x_range: (0, 0.3)
+2023-04-13 20:48:50 INFO: y_range: (0, 0.2)
+2023-04-13 20:48:50 INFO: cmap: jet
+2023-04-13 20:48:50 INFO: grids: on
+2023-04-13 20:48:50 INFO: normalization: on
+2023-04-13 20:48:50 INFO: 
+Temperature data statistics:
+2023-04-13 20:48:50 INFO: Min temperature: -0.20070025
+2023-04-13 20:48:50 INFO: Max temperature: 1.0
+2023-04-13 20:48:50 INFO: Mean temperature: 0.030602258
+2023-04-13 20:48:50 INFO: Min temperature: 0.0
+2023-04-13 20:48:50 INFO: Max temperature: 0.0
+2023-04-13 20:48:50 INFO: Mean temperature: 0.0
+2023-04-13 20:48:50 INFO: 
+Normalized coordinates range:
+2023-04-13 20:48:50 INFO: Min normalized x: 0.0
+2023-04-13 20:48:50 INFO: Max normalized x: 1.0
+2023-04-13 20:48:50 INFO: Min normalized y: 0.0
+2023-04-13 20:48:50 INFO: Max normalized y: 1.0
+2023-04-13 20:52:52 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 20:52:52 INFO: Number of points: 6762
+2023-04-13 20:52:52 INFO: Number of cells: 3264
+2023-04-13 20:52:52 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 20:52:52 INFO: Available data fields:
+2023-04-13 20:52:52 INFO: - p
+2023-04-13 20:52:52 INFO: - T
+2023-04-13 20:52:52 INFO: - U
+2023-04-13 20:52:52 INFO: - vorticity
+2023-04-13 20:52:52 INFO: Input parameters:
+2023-04-13 20:52:52 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 20:52:52 INFO: x_range: (0, 0.3)
+2023-04-13 20:52:52 INFO: y_range: (0, 0.2)
+2023-04-13 20:52:52 INFO: cmap: jet
+2023-04-13 20:52:52 INFO: grids: on
+2023-04-13 20:52:52 INFO: normalization: on
+2023-04-13 20:52:52 INFO: 
+Temperature data statistics:
+2023-04-13 20:52:52 INFO: Min temperature: 0.0
+2023-04-13 20:52:52 INFO: Max temperature: 69.71885
+2023-04-13 20:52:52 INFO: Mean temperature: 54.854935
+2023-04-13 20:52:52 INFO: Min temperature: 0.0
+2023-04-13 20:52:52 INFO: Max temperature: 0.31932276
+2023-04-13 20:52:52 INFO: Mean temperature: 0.055114802
+2023-04-13 20:52:52 INFO: 
+Normalized coordinates range:
+2023-04-13 20:52:52 INFO: Min normalized x: 0.0
+2023-04-13 20:52:52 INFO: Max normalized x: 1.0
+2023-04-13 20:52:52 INFO: Min normalized y: 0.0
+2023-04-13 20:52:52 INFO: Max normalized y: 1.0
+2023-04-13 20:54:35 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 20:54:35 INFO: Number of points: 6762
+2023-04-13 20:54:35 INFO: Number of cells: 3264
+2023-04-13 20:54:35 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 20:54:35 INFO: Available data fields:
+2023-04-13 20:54:35 INFO: - p
+2023-04-13 20:54:35 INFO: - T
+2023-04-13 20:54:35 INFO: - U
+2023-04-13 20:54:35 INFO: - vorticity
+2023-04-13 20:54:35 INFO: Input parameters:
+2023-04-13 20:54:35 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 20:54:35 INFO: x_range: (0, 0.3)
+2023-04-13 20:54:35 INFO: y_range: (0, 0.2)
+2023-04-13 20:54:35 INFO: cmap: jet
+2023-04-13 20:54:35 INFO: grids: on
+2023-04-13 20:54:35 INFO: normalization: on
+2023-04-13 20:54:35 INFO: 
+Temperature data statistics:
+2023-04-13 20:54:35 INFO: Min temperature: 0.0
+2023-04-13 20:54:35 INFO: Max temperature: 69.71885
+2023-04-13 20:54:35 INFO: Mean temperature: 54.854935
+2023-04-13 20:54:35 INFO: Min temperature: -8.9064e-26
+2023-04-13 20:54:35 INFO: Max temperature: 8.9365004e-26
+2023-04-13 20:54:35 INFO: Mean temperature: 1.4700028e-31
+2023-04-13 20:54:35 INFO: 
+Normalized coordinates range:
+2023-04-13 20:54:35 INFO: Min normalized x: 0.0
+2023-04-13 20:54:35 INFO: Max normalized x: 1.0
+2023-04-13 20:54:35 INFO: Min normalized y: 0.0
+2023-04-13 20:54:35 INFO: Max normalized y: 1.0
+2023-04-13 21:08:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 21:08:29 INFO: Number of points: 6762
+2023-04-13 21:08:29 INFO: Number of cells: 3264
+2023-04-13 21:08:29 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 21:08:29 INFO: Available data fields:
+2023-04-13 21:08:29 INFO: - p
+2023-04-13 21:08:29 INFO: - T
+2023-04-13 21:08:29 INFO: - U
+2023-04-13 21:08:29 INFO: - vorticity
+2023-04-13 21:08:29 INFO: Input parameters:
+2023-04-13 21:08:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 21:08:29 INFO: x_range: (0, 0.3)
+2023-04-13 21:08:29 INFO: y_range: (0, 0.2)
+2023-04-13 21:08:29 INFO: cmap: jet
+2023-04-13 21:08:29 INFO: grids: on
+2023-04-13 21:08:29 INFO: normalization: on
+2023-04-13 21:08:29 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:08:29 INFO: Min velocity_x: 0.0
+2023-04-13 21:08:29 INFO: Max velocity_x: 69.71885
+2023-04-13 21:08:29 INFO: Mean velocity_x: 54.854935
+2023-04-13 21:08:29 INFO: Min velocity_x: -8.9064e-26
+2023-04-13 21:08:29 INFO: Max velocity_x: 8.9365004e-26
+2023-04-13 21:08:29 INFO: Mean velocity_x: 1.4700028e-31
+2023-04-13 21:08:29 INFO: 
+Normalized coordinates range:
+2023-04-13 21:08:29 INFO: Min normalized x: 0.0
+2023-04-13 21:08:29 INFO: Max normalized x: 1.0
+2023-04-13 21:08:29 INFO: Min normalized y: 0.0
+2023-04-13 21:08:29 INFO: Max normalized y: 1.0
+2023-04-13 21:10:08 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 21:10:08 INFO: Number of points: 6762
+2023-04-13 21:10:08 INFO: Number of cells: 3264
+2023-04-13 21:10:08 INFO: axis_map:{'x': 0, 'y': 2, 'z': 1}
+2023-04-13 21:10:08 INFO: Available data fields:
+2023-04-13 21:10:08 INFO: - p
+2023-04-13 21:10:08 INFO: - T
+2023-04-13 21:10:08 INFO: - U
+2023-04-13 21:10:08 INFO: - vorticity
+2023-04-13 21:10:08 INFO: Input parameters:
+2023-04-13 21:10:08 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 21:10:08 INFO: x_range: (0, 0.3)
+2023-04-13 21:10:08 INFO: y_range: (0, 0.2)
+2023-04-13 21:10:08 INFO: cmap: jet
+2023-04-13 21:10:08 INFO: grids: on
+2023-04-13 21:10:08 INFO: normalization: on
+2023-04-13 21:10:08 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:10:08 INFO: Min velocity_x: 0.0
+2023-04-13 21:10:08 INFO: Max velocity_x: 69.71885
+2023-04-13 21:10:08 INFO: Mean velocity_x: 54.854935
+2023-04-13 21:10:08 INFO: Min velocity_x: 0.0
+2023-04-13 21:10:08 INFO: Max velocity_x: 0.31932276
+2023-04-13 21:10:08 INFO: Mean velocity_x: 0.055114802
+2023-04-13 21:10:08 INFO: 
+Normalized coordinates range:
+2023-04-13 21:10:08 INFO: Min normalized x: 0.0
+2023-04-13 21:10:08 INFO: Max normalized x: 1.0
+2023-04-13 21:10:08 INFO: Min normalized y: 0.0
+2023-04-13 21:10:08 INFO: Max normalized y: 1.0
+2023-04-13 21:11:09 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:11:09 INFO: Number of points: 882
+2023-04-13 21:11:09 INFO: Number of cells: 400
+2023-04-13 21:11:09 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 21:11:09 INFO: Available data fields:
+2023-04-13 21:11:09 INFO: - U
+2023-04-13 21:11:09 INFO: Input parameters:
+2023-04-13 21:11:09 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:11:09 INFO: x_range: (0, 1)
+2023-04-13 21:11:09 INFO: y_range: (0, 1)
+2023-04-13 21:11:09 INFO: cmap: jet
+2023-04-13 21:11:09 INFO: grids: on
+2023-04-13 21:11:09 INFO: normalization: on
+2023-04-13 21:11:09 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:11:09 INFO: Min velocity_x: -0.20070025
+2023-04-13 21:11:09 INFO: Max velocity_x: 1.0
+2023-04-13 21:11:09 INFO: Mean velocity_x: 0.030602258
+2023-04-13 21:11:09 INFO: Min velocity_x: -0.35112524
+2023-04-13 21:11:09 INFO: Max velocity_x: 0.32135126
+2023-04-13 21:11:09 INFO: Mean velocity_x: 0.00017582018
+2023-04-13 21:11:09 INFO: 
+Normalized coordinates range:
+2023-04-13 21:11:09 INFO: Min normalized x: 0.0
+2023-04-13 21:11:09 INFO: Max normalized x: 1.0
+2023-04-13 21:11:09 INFO: Min normalized y: 0.0
+2023-04-13 21:11:09 INFO: Max normalized y: 1.0
+2023-04-13 21:12:49 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:12:49 INFO: Number of points: 882
+2023-04-13 21:12:49 INFO: Number of cells: 400
+2023-04-13 21:12:49 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 21:12:49 INFO: Available data fields:
+2023-04-13 21:12:49 INFO: - U
+2023-04-13 21:12:49 INFO: Input parameters:
+2023-04-13 21:12:49 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:12:49 INFO: x_range: (0, 1)
+2023-04-13 21:12:49 INFO: y_range: (0, 1)
+2023-04-13 21:12:49 INFO: cmap: jet
+2023-04-13 21:12:49 INFO: grids: on
+2023-04-13 21:12:49 INFO: normalization: on
+2023-04-13 21:12:49 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:12:49 INFO: Min velocity_x: -0.20070025
+2023-04-13 21:12:49 INFO: Max velocity_x: 1.0
+2023-04-13 21:12:49 INFO: Mean velocity_x: 0.030602258
+2023-04-13 21:12:49 INFO: Min velocity_x: -0.35112524
+2023-04-13 21:12:49 INFO: Max velocity_x: 0.32135126
+2023-04-13 21:12:49 INFO: Mean velocity_x: 0.00017582018
+2023-04-13 21:12:49 INFO: 
+Normalized coordinates range:
+2023-04-13 21:12:49 INFO: Min normalized x: 0.0
+2023-04-13 21:12:49 INFO: Max normalized x: 1.0
+2023-04-13 21:12:49 INFO: Min normalized y: 0.0
+2023-04-13 21:12:49 INFO: Max normalized y: 1.0
+2023-04-13 21:16:36 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:16:36 INFO: Number of points: 882
+2023-04-13 21:16:36 INFO: Number of cells: 400
+2023-04-13 21:16:36 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 21:16:36 INFO: Available data fields:
+2023-04-13 21:16:36 INFO: - U
+2023-04-13 21:16:36 INFO: Input parameters:
+2023-04-13 21:16:36 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:16:36 INFO: x_range: (0, 1)
+2023-04-13 21:16:36 INFO: y_range: (0, 1)
+2023-04-13 21:16:36 INFO: cmap: jet
+2023-04-13 21:16:36 INFO: grids: on
+2023-04-13 21:16:36 INFO: normalization: on
+2023-04-13 21:16:36 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:16:36 INFO: Min velocity_x: -0.20070025
+2023-04-13 21:16:36 INFO: Max velocity_x: 1.0
+2023-04-13 21:16:36 INFO: Mean velocity_x: 0.030602258
+2023-04-13 21:16:36 INFO: Min velocity_x: -0.35112524
+2023-04-13 21:16:36 INFO: Max velocity_x: 0.32135126
+2023-04-13 21:16:36 INFO: Mean velocity_x: 0.00017582018
+2023-04-13 21:16:36 INFO: 
+Normalized coordinates range:
+2023-04-13 21:16:36 INFO: Min normalized x: 0.0
+2023-04-13 21:16:36 INFO: Max normalized x: 1.0
+2023-04-13 21:16:36 INFO: Min normalized y: 0.0
+2023-04-13 21:16:36 INFO: Max normalized y: 1.0
+2023-04-13 21:17:57 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:17:57 INFO: Number of points: 882
+2023-04-13 21:17:57 INFO: Number of cells: 400
+2023-04-13 21:17:57 INFO: axis_map:{'x': 0, 'y': 2, 'z': 1}
+2023-04-13 21:17:57 INFO: Available data fields:
+2023-04-13 21:17:57 INFO: - U
+2023-04-13 21:17:57 INFO: Input parameters:
+2023-04-13 21:17:57 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:17:57 INFO: x_range: (0, 1)
+2023-04-13 21:17:57 INFO: y_range: (0, 1)
+2023-04-13 21:17:57 INFO: cmap: jet
+2023-04-13 21:17:57 INFO: grids: on
+2023-04-13 21:17:57 INFO: normalization: on
+2023-04-13 21:17:57 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:17:57 INFO: Min velocity_x: -0.20070025
+2023-04-13 21:17:57 INFO: Max velocity_x: 1.0
+2023-04-13 21:17:57 INFO: Mean velocity_x: 0.030602258
+2023-04-13 21:17:57 INFO: Min velocity_x: 0.0
+2023-04-13 21:17:57 INFO: Max velocity_x: 0.0
+2023-04-13 21:17:57 INFO: Mean velocity_x: 0.0
+2023-04-13 21:17:57 INFO: 
+Normalized coordinates range:
+2023-04-13 21:17:57 INFO: Min normalized x: 0.0
+2023-04-13 21:17:57 INFO: Max normalized x: 1.0
+2023-04-13 21:17:57 INFO: Min normalized y: 0.0
+2023-04-13 21:17:57 INFO: Max normalized y: 1.0
+2023-04-13 21:27:00 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 21:27:00 INFO: Number of points: 6762
+2023-04-13 21:27:00 INFO: Number of cells: 3264
+2023-04-13 21:27:00 INFO: axis_map:{'x': 0, 'y': 2, 'z': 1}
+2023-04-13 21:27:00 INFO: Available data fields:
+2023-04-13 21:27:00 INFO: - p
+2023-04-13 21:27:00 INFO: - T
+2023-04-13 21:27:00 INFO: - U
+2023-04-13 21:27:00 INFO: - vorticity
+2023-04-13 21:27:00 INFO: Input parameters:
+2023-04-13 21:27:00 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/2D_Flat/turbulence2/VTK/turbulence2_200000.vtk
+2023-04-13 21:27:00 INFO: x_range: (0, 1)
+2023-04-13 21:27:00 INFO: y_range: (0, 1)
+2023-04-13 21:27:00 INFO: cmap: jet
+2023-04-13 21:27:00 INFO: grids: on
+2023-04-13 21:27:00 INFO: normalization: on
+2023-04-13 21:27:00 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:27:00 INFO: Min velocity_x: 0.0
+2023-04-13 21:27:00 INFO: Max velocity_x: 69.71885
+2023-04-13 21:27:00 INFO: Mean velocity_x: 54.854935
+2023-04-13 21:27:00 INFO: Min velocity_x: 0.0
+2023-04-13 21:27:00 INFO: Max velocity_x: 0.31932276
+2023-04-13 21:27:00 INFO: Mean velocity_x: 0.055114802
+2023-04-13 21:27:00 INFO: 
+Normalized coordinates range:
+2023-04-13 21:27:00 INFO: Min normalized x: 0.0
+2023-04-13 21:27:00 INFO: Max normalized x: 1.0
+2023-04-13 21:27:00 INFO: Min normalized y: 0.0
+2023-04-13 21:27:00 INFO: Max normalized y: 1.0
+2023-04-13 21:34:22 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:34:22 INFO: Number of points: 882
+2023-04-13 21:34:22 INFO: Number of cells: 400
+2023-04-13 21:34:22 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 21:34:22 INFO: Available data fields:
+2023-04-13 21:34:22 INFO: - U
+2023-04-13 21:34:22 INFO: Input parameters:
+2023-04-13 21:34:22 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:34:22 INFO: x_range: (0, 1)
+2023-04-13 21:34:22 INFO: y_range: (0, 1)
+2023-04-13 21:34:22 INFO: cmap: jet
+2023-04-13 21:34:22 INFO: grids: on
+2023-04-13 21:34:22 INFO: normalization: on
+2023-04-13 21:34:22 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:34:22 INFO: Min velocity_x: -0.20070025
+2023-04-13 21:34:22 INFO: Max velocity_x: 1.0
+2023-04-13 21:34:22 INFO: Mean velocity_x: 0.030602258
+2023-04-13 21:34:22 INFO: Min velocity_x: -0.35112524
+2023-04-13 21:34:22 INFO: Max velocity_x: 0.32135126
+2023-04-13 21:34:22 INFO: Mean velocity_x: 0.00017582018
+2023-04-13 21:34:22 INFO: 
+Normalized coordinates range:
+2023-04-13 21:34:22 INFO: Min normalized x: 0.0
+2023-04-13 21:34:22 INFO: Max normalized x: 1.0
+2023-04-13 21:34:22 INFO: Min normalized y: 0.0
+2023-04-13 21:34:22 INFO: Max normalized y: 1.0
+2023-04-13 21:37:39 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:37:39 INFO: Number of points: 882
+2023-04-13 21:37:39 INFO: Number of cells: 400
+2023-04-13 21:37:39 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 21:37:39 INFO: Available data fields:
+2023-04-13 21:37:39 INFO: - U
+2023-04-13 21:37:39 INFO: Input parameters:
+2023-04-13 21:37:39 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:37:39 INFO: x_range: (0, 1)
+2023-04-13 21:37:39 INFO: y_range: (0, 1)
+2023-04-13 21:37:39 INFO: cmap: jet
+2023-04-13 21:37:39 INFO: grids: on
+2023-04-13 21:37:39 INFO: normalization: on
+2023-04-13 21:37:39 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:37:39 INFO: Min velocity_x: -0.20070025
+2023-04-13 21:37:39 INFO: Max velocity_x: 1.0
+2023-04-13 21:37:39 INFO: Mean velocity_x: 0.030602258
+2023-04-13 21:37:39 INFO: Min velocity_x: -0.35112524
+2023-04-13 21:37:39 INFO: Max velocity_x: 0.32135126
+2023-04-13 21:37:39 INFO: Mean velocity_x: 0.00017582018
+2023-04-13 21:37:39 INFO: 
+Normalized coordinates range:
+2023-04-13 21:37:39 INFO: Min normalized x: 0.0
+2023-04-13 21:37:39 INFO: Max normalized x: 1.0
+2023-04-13 21:37:39 INFO: Min normalized y: 0.0
+2023-04-13 21:37:39 INFO: Max normalized y: 1.0
+2023-04-13 21:39:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:39:29 INFO: Number of points: 882
+2023-04-13 21:39:29 INFO: Number of cells: 400
+2023-04-13 21:39:29 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 21:39:29 INFO: Available data fields:
+2023-04-13 21:39:29 INFO: - U
+2023-04-13 21:39:29 INFO: Input parameters:
+2023-04-13 21:39:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:39:29 INFO: x_range: (0, 1)
+2023-04-13 21:39:29 INFO: y_range: (0, 1)
+2023-04-13 21:39:29 INFO: cmap: jet
+2023-04-13 21:39:29 INFO: grids: on
+2023-04-13 21:39:29 INFO: normalization: on
+2023-04-13 21:39:29 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:39:29 INFO: Min velocity_x: -0.20070025
+2023-04-13 21:39:29 INFO: Max velocity_x: 1.0
+2023-04-13 21:39:29 INFO: Mean velocity_x: 0.030602258
+2023-04-13 21:39:29 INFO: Min velocity_x: -0.35112524
+2023-04-13 21:39:29 INFO: Max velocity_x: 0.32135126
+2023-04-13 21:39:29 INFO: Mean velocity_x: 0.00017582018
+2023-04-13 21:39:29 INFO: 
+Normalized coordinates range:
+2023-04-13 21:39:29 INFO: Min normalized x: 0.0
+2023-04-13 21:39:29 INFO: Max normalized x: 1.0
+2023-04-13 21:39:29 INFO: Min normalized y: 0.0
+2023-04-13 21:39:29 INFO: Max normalized y: 1.0
+2023-04-13 21:45:24 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:45:24 INFO: Number of points: 882
+2023-04-13 21:45:24 INFO: Number of cells: 400
+2023-04-13 21:45:24 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 21:45:24 INFO: Available data fields:
+2023-04-13 21:45:24 INFO: - U
+2023-04-13 21:45:24 INFO: Input parameters:
+2023-04-13 21:45:24 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:45:24 INFO: x_range: (0, 1)
+2023-04-13 21:45:24 INFO: y_range: (0, 1)
+2023-04-13 21:45:24 INFO: cmap: jet
+2023-04-13 21:45:24 INFO: grids: on
+2023-04-13 21:45:24 INFO: normalization: on
+2023-04-13 21:45:24 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:45:24 INFO: Min velocity_x: -0.20070025
+2023-04-13 21:45:24 INFO: Max velocity_x: 1.0
+2023-04-13 21:45:24 INFO: Mean velocity_x: 0.030602258
+2023-04-13 21:45:24 INFO: Min velocity_x: -0.35112524
+2023-04-13 21:45:24 INFO: Max velocity_x: 0.32135126
+2023-04-13 21:45:24 INFO: Mean velocity_x: 0.00017582018
+2023-04-13 21:45:24 INFO: 
+Normalized coordinates range:
+2023-04-13 21:45:24 INFO: Min normalized x: 0.0
+2023-04-13 21:45:24 INFO: Max normalized x: 1.0
+2023-04-13 21:45:24 INFO: Min normalized y: 0.0
+2023-04-13 21:45:24 INFO: Max normalized y: 1.0
+2023-04-13 21:47:26 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:47:26 INFO: Number of points: 882
+2023-04-13 21:47:26 INFO: Number of cells: 400
+2023-04-13 21:47:26 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 21:47:26 INFO: Available data fields:
+2023-04-13 21:47:26 INFO: - U
+2023-04-13 21:47:26 INFO: Input parameters:
+2023-04-13 21:47:26 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:47:26 INFO: x_range: (0, 1)
+2023-04-13 21:47:26 INFO: y_range: (0, 1)
+2023-04-13 21:47:26 INFO: cmap: jet
+2023-04-13 21:47:26 INFO: grids: on
+2023-04-13 21:47:26 INFO: normalization: on
+2023-04-13 21:47:26 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:47:26 INFO: Min velocity_x: -0.20070025
+2023-04-13 21:47:26 INFO: Max velocity_x: 1.0
+2023-04-13 21:47:26 INFO: Mean velocity_x: 0.030602258
+2023-04-13 21:47:26 INFO: Min velocity_x: -0.35112524
+2023-04-13 21:47:26 INFO: Max velocity_x: 0.32135126
+2023-04-13 21:47:26 INFO: Mean velocity_x: 0.00017582018
+2023-04-13 21:47:26 INFO: 
+Normalized coordinates range:
+2023-04-13 21:47:26 INFO: Min normalized x: 0.0
+2023-04-13 21:47:26 INFO: Max normalized x: 1.0
+2023-04-13 21:47:26 INFO: Min normalized y: 0.0
+2023-04-13 21:47:26 INFO: Max normalized y: 1.0
+2023-04-13 21:53:47 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:53:47 INFO: Number of points: 882
+2023-04-13 21:53:47 INFO: Number of cells: 400
+2023-04-13 21:53:47 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 21:53:47 INFO: Available data fields:
+2023-04-13 21:53:47 INFO: - U
+2023-04-13 21:53:47 INFO: Input parameters:
+2023-04-13 21:53:47 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 21:53:47 INFO: x_range: (0, 1)
+2023-04-13 21:53:47 INFO: y_range: (0, 1)
+2023-04-13 21:53:47 INFO: cmap: jet
+2023-04-13 21:53:47 INFO: grids: on
+2023-04-13 21:53:47 INFO: normalization: on
+2023-04-13 21:53:47 INFO: 
+Velocity_x data statistics:
+2023-04-13 21:53:47 INFO: Min velocity_x: -0.20070025
+2023-04-13 21:53:47 INFO: Max velocity_x: 1.0
+2023-04-13 21:53:47 INFO: Mean velocity_x: 0.030602258
+2023-04-13 21:53:47 INFO: Min velocity_x: -0.35112524
+2023-04-13 21:53:47 INFO: Max velocity_x: 0.32135126
+2023-04-13 21:53:47 INFO: Mean velocity_x: 0.00017582018
+2023-04-13 21:53:47 INFO: 
+Normalized coordinates range:
+2023-04-13 21:53:47 INFO: Min normalized x: 0.0
+2023-04-13 21:53:47 INFO: Max normalized x: 1.0
+2023-04-13 21:53:47 INFO: Min normalized y: 0.0
+2023-04-13 21:53:47 INFO: Max normalized y: 1.0
+2023-04-13 22:00:01 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 22:00:01 INFO: Number of points: 882
+2023-04-13 22:00:01 INFO: Number of cells: 400
+2023-04-13 22:00:01 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-13 22:00:01 INFO: Available data fields:
+2023-04-13 22:00:01 INFO: - U
+2023-04-13 22:00:01 INFO: Input parameters:
+2023-04-13 22:00:01 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-13 22:00:01 INFO: x_range: (0, 1)
+2023-04-13 22:00:01 INFO: y_range: (0, 1)
+2023-04-13 22:00:01 INFO: cmap: jet
+2023-04-13 22:00:01 INFO: grids: on
+2023-04-13 22:00:01 INFO: normalization: on
+2023-04-13 22:00:01 INFO: 
+Velocity_x data statistics:
+2023-04-13 22:00:01 INFO: Min velocity_x: -0.20070025
+2023-04-13 22:00:01 INFO: Max velocity_x: 1.0
+2023-04-13 22:00:01 INFO: Mean velocity_x: 0.030602258
+2023-04-13 22:00:01 INFO: Min velocity_x: -0.35112524
+2023-04-13 22:00:01 INFO: Max velocity_x: 0.32135126
+2023-04-13 22:00:01 INFO: Mean velocity_x: 0.00017582018
+2023-04-13 22:00:01 INFO: 
+Normalized coordinates range:
+2023-04-13 22:00:01 INFO: Min normalized x: 0.0
+2023-04-13 22:00:01 INFO: Max normalized x: 1.0
+2023-04-13 22:00:01 INFO: Min normalized y: 0.0
+2023-04-13 22:00:01 INFO: Max normalized y: 1.0

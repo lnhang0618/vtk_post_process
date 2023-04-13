@@ -2,12 +2,21 @@ import logging
 import vtk
 from vtk.util import numpy_support
 import numpy as np
+import matplotlib.pyplot as plt
 
 logging.basicConfig(filename='post_process.log', level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
 class PostProcessBase:
-    def __init__(self, vtk_file):
+    def __init__(self, vtk_file,axis_map=None):
         self.vtk_file = vtk_file
+        
+        if axis_map is None:
+            self.axis_map={'x':0,'y':1,'z':2}
+        else:
+            self.axis_map = axis_map
+            assert len(self.axis_map) == 3 and 'x' in self.axis_map and 'y' in self.axis_map and 'z' in self.axis_map, \
+                "Invalid axis_map. Must be a dictionary containing 'x', 'y', and 'z' keys."
+    
         self._read_vtk_file()
         self.print_info()
     
@@ -24,10 +33,25 @@ class PostProcessBase:
     
     #读取点坐标
     def get_points(self):
-        points=numpy_support.vtk_to_numpy(self.unstructured_grid.GetPoints().GetData())
-        self.x = points[:, 0]
-        self.y = points[:, 2]
+        self.points=numpy_support.vtk_to_numpy(self.unstructured_grid.GetPoints().GetData())
+        self.x = self.points[:, self.axis_map['x']]
+        self.y = self.points[:, self.axis_map['y']]
+        self.z = self.points[:, self.axis_map['z']]
     
+    #读取单元格信息
+    def get_cell_points_ids(self):
+        cell_array = self.unstructured_grid.GetCells()
+        cell_points_ids = []
+        id_list = vtk.vtkIdList()
+
+        cell_array.InitTraversal()
+        while cell_array.GetNextCell(id_list):
+            ids = [id_list.GetId(j) for j in range(id_list.GetNumberOfIds())]
+            cell_points_ids.append(ids)
+
+        return cell_points_ids
+    
+    #归一化
     def normalization(self):
         x_max,x_min=np.max(self.x),np.min(self.x)
         y_max,y_min=np.max(self.y),np.min(self.y)
@@ -55,15 +79,49 @@ class PostProcessBase:
 
         return cell_points_ids
     
+    #提取xy平面网格
+    def get_xy_cells(self):
+        cell_points_ids=self.get_cell_points_ids()
+        xy_cells=[]
+        
+        tolerance = 0
+        
+        for cell in cell_points_ids:
+            filtered_cell = [vertex_id for vertex_id in cell if abs(self.z[vertex_id]) == tolerance]
+            xy_cells.append(filtered_cell)
+        
+        return xy_cells
+    
+    #绘画计算网格
+    def draw_xy_meshes(self,ax):
+        xy_cells=self.get_xy_cells()
 
+        for cell in xy_cells:
+            # 计算每个点相对于单元格质心的角度(极角)
+            centroid = np.mean([[self.x[vertex_id], self.y[vertex_id]] for vertex_id in cell], axis=0)
+            angles = [np.arctan2(self.y[vertex_id] - centroid[1], self.x[vertex_id] - centroid[0]) for vertex_id in cell]
+            # 根据角度对点进行排序
+            sorted_cell = [vertex_id for _, vertex_id in sorted(zip(angles, cell))]
 
+            # 连接每个单元格内的点
+            for i in range(len(sorted_cell)):
+                point1 = sorted_cell[i]
+                point2 = sorted_cell[(i + 1) % len(sorted_cell)]
+                x_coords = [self.x[point1], self.x[point2]]
+                y_coords = [self.y[point1], self.y[point2]]
+                ax.plot(x_coords, y_coords, 'k-', linewidth=0.5)
 
+    
+    #statistics
     def print_info(self):
         logging.info(f"VTK file: {self.vtk_file}")
         logging.info(f"Number of points: {self.unstructured_grid.GetNumberOfPoints()}")
         logging.info(f"Number of cells: {self.unstructured_grid.GetNumberOfCells()}")
-
+        logging.info(f"axis_map:{self.axis_map}")
+        
         logging.info("Available data fields:")
         point_data = self.unstructured_grid.GetPointData()
         for i in range(point_data.GetNumberOfArrays()):
             logging.info(f"- {point_data.GetArrayName(i)}")
+        
+            
