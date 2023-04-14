@@ -4056,3 +4056,727 @@ Normalized coordinates range:
 2023-04-14 16:50:08 INFO: Min normalized y: 0.0
 2023-04-14 16:50:08 INFO: Max normalized y: 1.0
 2023-04-14 16:50:08 INFO: thez_value of cross section:{0.0005}:
+2023-04-14 17:59:42 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 17:59:42 INFO: Number of points: 25012
+2023-04-14 17:59:42 INFO: Number of cells: 12225
+2023-04-14 17:59:42 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 17:59:42 INFO: Available data fields:
+2023-04-14 17:59:42 INFO: - p
+2023-04-14 17:59:42 INFO: - U
+2023-04-14 17:59:42 INFO: Input parameters:
+2023-04-14 17:59:42 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 17:59:42 INFO: x_range: (0, 1)
+2023-04-14 17:59:42 INFO: y_range: (0, 1)
+2023-04-14 17:59:42 INFO: cmap: jet
+2023-04-14 17:59:42 INFO: grids: on
+2023-04-14 17:59:42 INFO: normalization: on
+2023-04-14 17:59:42 INFO: 
+Velocity_x data statistics:
+2023-04-14 17:59:42 INFO: Min velocity_x: -2.5150898
+2023-04-14 17:59:42 INFO: Max velocity_x: 10.195104
+2023-04-14 17:59:42 INFO: Mean velocity_x: 5.353529
+2023-04-14 17:59:42 INFO: Min velocity_x: -0.67796654
+2023-04-14 17:59:42 INFO: Max velocity_x: 0.6547807
+2023-04-14 17:59:42 INFO: Mean velocity_x: -0.12784423
+2023-04-14 17:59:42 INFO: 
+Normalized coordinates range:
+2023-04-14 17:59:42 INFO: Min normalized x: 0.0
+2023-04-14 17:59:42 INFO: Max normalized x: 1.0
+2023-04-14 17:59:42 INFO: Min normalized y: 0.0
+2023-04-14 17:59:42 INFO: Max normalized y: 1.0
+2023-04-14 20:31:24 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:31:24 INFO: Number of points: 25012
+2023-04-14 20:31:24 INFO: Number of cells: 12225
+2023-04-14 20:31:24 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:31:24 INFO: Available data fields:
+2023-04-14 20:31:24 INFO: - p
+2023-04-14 20:31:24 INFO: - U
+2023-04-14 20:31:24 INFO: Input parameters:
+2023-04-14 20:31:24 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:31:24 INFO: x_range: (0, 1)
+2023-04-14 20:31:24 INFO: y_range: (0, 1)
+2023-04-14 20:31:24 INFO: cmap: jet
+2023-04-14 20:31:24 INFO: grids: on
+2023-04-14 20:31:24 INFO: normalization: on
+2023-04-14 20:31:24 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:31:24 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:31:24 INFO: Max velocity_x: 10.195104
+2023-04-14 20:31:24 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:31:24 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:31:24 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:31:24 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:31:24 INFO: 
+Normalized coordinates range:
+2023-04-14 20:31:24 INFO: Min normalized x: 0.0
+2023-04-14 20:31:24 INFO: Max normalized x: 1.0
+2023-04-14 20:31:24 INFO: Min normalized y: 0.0
+2023-04-14 20:31:24 INFO: Max normalized y: 1.0
+2023-04-14 20:33:50 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:33:50 INFO: Number of points: 25012
+2023-04-14 20:33:50 INFO: Number of cells: 12225
+2023-04-14 20:33:50 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:33:50 INFO: Available data fields:
+2023-04-14 20:33:50 INFO: - p
+2023-04-14 20:33:50 INFO: - U
+2023-04-14 20:33:50 INFO: Input parameters:
+2023-04-14 20:33:50 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:33:50 INFO: x_range: (0, 1)
+2023-04-14 20:33:50 INFO: y_range: (0, 1)
+2023-04-14 20:33:50 INFO: cmap: jet
+2023-04-14 20:33:50 INFO: grids: on
+2023-04-14 20:33:50 INFO: normalization: on
+2023-04-14 20:33:50 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:33:50 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:33:50 INFO: Max velocity_x: 10.195104
+2023-04-14 20:33:50 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:33:50 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:33:50 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:33:50 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:33:50 INFO: 
+Normalized coordinates range:
+2023-04-14 20:33:50 INFO: Min normalized x: 0.0
+2023-04-14 20:33:50 INFO: Max normalized x: 1.0
+2023-04-14 20:33:50 INFO: Min normalized y: 0.0
+2023-04-14 20:33:50 INFO: Max normalized y: 1.0
+2023-04-14 20:37:08 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:37:08 INFO: Number of points: 25012
+2023-04-14 20:37:08 INFO: Number of cells: 12225
+2023-04-14 20:37:08 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:37:08 INFO: Available data fields:
+2023-04-14 20:37:08 INFO: - p
+2023-04-14 20:37:08 INFO: - U
+2023-04-14 20:37:08 INFO: Input parameters:
+2023-04-14 20:37:08 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:37:08 INFO: x_range: (0, 1)
+2023-04-14 20:37:08 INFO: y_range: (0, 1)
+2023-04-14 20:37:08 INFO: cmap: jet
+2023-04-14 20:37:08 INFO: grids: on
+2023-04-14 20:37:08 INFO: normalization: on
+2023-04-14 20:37:08 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:37:08 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:37:08 INFO: Max velocity_x: 10.195104
+2023-04-14 20:37:08 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:37:08 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:37:08 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:37:08 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:37:08 INFO: 
+Normalized coordinates range:
+2023-04-14 20:37:08 INFO: Min normalized x: 0.0
+2023-04-14 20:37:08 INFO: Max normalized x: 1.0
+2023-04-14 20:37:08 INFO: Min normalized y: 0.0
+2023-04-14 20:37:08 INFO: Max normalized y: 1.0
+2023-04-14 20:37:08 INFO: thez_value of cross section:{0.0005}:
+2023-04-14 20:38:52 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:38:52 INFO: Number of points: 25012
+2023-04-14 20:38:52 INFO: Number of cells: 12225
+2023-04-14 20:38:52 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:38:52 INFO: Available data fields:
+2023-04-14 20:38:52 INFO: - p
+2023-04-14 20:38:52 INFO: - U
+2023-04-14 20:38:52 INFO: Input parameters:
+2023-04-14 20:38:52 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:38:52 INFO: x_range: (0, 1)
+2023-04-14 20:38:52 INFO: y_range: (0, 1)
+2023-04-14 20:38:52 INFO: cmap: jet
+2023-04-14 20:38:52 INFO: grids: on
+2023-04-14 20:38:52 INFO: normalization: on
+2023-04-14 20:38:52 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:38:52 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:38:52 INFO: Max velocity_x: 10.195104
+2023-04-14 20:38:52 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:38:52 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:38:52 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:38:52 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:38:52 INFO: 
+Normalized coordinates range:
+2023-04-14 20:38:52 INFO: Min normalized x: 0.0
+2023-04-14 20:38:52 INFO: Max normalized x: 1.0
+2023-04-14 20:38:52 INFO: Min normalized y: 0.0
+2023-04-14 20:38:52 INFO: Max normalized y: 1.0
+2023-04-14 20:39:47 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:39:47 INFO: Number of points: 25012
+2023-04-14 20:39:47 INFO: Number of cells: 12225
+2023-04-14 20:39:47 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:39:47 INFO: Available data fields:
+2023-04-14 20:39:47 INFO: - p
+2023-04-14 20:39:47 INFO: - U
+2023-04-14 20:39:47 INFO: Input parameters:
+2023-04-14 20:39:47 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:39:47 INFO: x_range: (0, 1)
+2023-04-14 20:39:47 INFO: y_range: (0, 1)
+2023-04-14 20:39:47 INFO: cmap: jet
+2023-04-14 20:39:47 INFO: grids: on
+2023-04-14 20:39:47 INFO: normalization: on
+2023-04-14 20:39:47 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:39:47 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:39:47 INFO: Max velocity_x: 10.195104
+2023-04-14 20:39:47 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:39:47 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:39:47 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:39:47 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:39:47 INFO: 
+Normalized coordinates range:
+2023-04-14 20:39:47 INFO: Min normalized x: 0.0
+2023-04-14 20:39:47 INFO: Max normalized x: 1.0
+2023-04-14 20:39:47 INFO: Min normalized y: 0.0
+2023-04-14 20:39:47 INFO: Max normalized y: 1.0
+2023-04-14 20:40:58 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:40:58 INFO: Number of points: 25012
+2023-04-14 20:40:58 INFO: Number of cells: 12225
+2023-04-14 20:40:58 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:40:58 INFO: Available data fields:
+2023-04-14 20:40:58 INFO: - p
+2023-04-14 20:40:58 INFO: - U
+2023-04-14 20:40:58 INFO: Input parameters:
+2023-04-14 20:40:58 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:40:58 INFO: x_range: (0, 1)
+2023-04-14 20:40:58 INFO: y_range: (0, 1)
+2023-04-14 20:40:58 INFO: cmap: jet
+2023-04-14 20:40:58 INFO: grids: on
+2023-04-14 20:40:58 INFO: normalization: on
+2023-04-14 20:40:58 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:40:58 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:40:58 INFO: Max velocity_x: 10.195104
+2023-04-14 20:40:58 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:40:58 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:40:58 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:40:58 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:40:58 INFO: 
+Normalized coordinates range:
+2023-04-14 20:40:58 INFO: Min normalized x: 0.0
+2023-04-14 20:40:58 INFO: Max normalized x: 1.0
+2023-04-14 20:40:58 INFO: Min normalized y: 0.0
+2023-04-14 20:40:58 INFO: Max normalized y: 1.0
+2023-04-14 20:41:48 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:41:48 INFO: Number of points: 25012
+2023-04-14 20:41:48 INFO: Number of cells: 12225
+2023-04-14 20:41:48 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:41:48 INFO: Available data fields:
+2023-04-14 20:41:48 INFO: - p
+2023-04-14 20:41:48 INFO: - U
+2023-04-14 20:41:48 INFO: Input parameters:
+2023-04-14 20:41:48 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:41:48 INFO: x_range: (0, 1)
+2023-04-14 20:41:48 INFO: y_range: (0, 1)
+2023-04-14 20:41:48 INFO: cmap: jet
+2023-04-14 20:41:48 INFO: grids: on
+2023-04-14 20:41:48 INFO: normalization: on
+2023-04-14 20:41:48 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:41:48 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:41:48 INFO: Max velocity_x: 10.195104
+2023-04-14 20:41:48 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:41:48 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:41:48 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:41:48 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:41:48 INFO: 
+Normalized coordinates range:
+2023-04-14 20:41:48 INFO: Min normalized x: 0.0
+2023-04-14 20:41:48 INFO: Max normalized x: 1.0
+2023-04-14 20:41:48 INFO: Min normalized y: 0.0
+2023-04-14 20:41:48 INFO: Max normalized y: 1.0
+2023-04-14 20:42:20 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:42:20 INFO: Number of points: 25012
+2023-04-14 20:42:20 INFO: Number of cells: 12225
+2023-04-14 20:42:20 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:42:20 INFO: Available data fields:
+2023-04-14 20:42:20 INFO: - p
+2023-04-14 20:42:20 INFO: - U
+2023-04-14 20:42:20 INFO: Input parameters:
+2023-04-14 20:42:20 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:42:20 INFO: x_range: (0, 1)
+2023-04-14 20:42:20 INFO: y_range: (0, 1)
+2023-04-14 20:42:20 INFO: cmap: jet
+2023-04-14 20:42:20 INFO: grids: on
+2023-04-14 20:42:20 INFO: normalization: on
+2023-04-14 20:42:20 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:42:20 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:42:20 INFO: Max velocity_x: 10.195104
+2023-04-14 20:42:20 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:42:20 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:42:20 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:42:20 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:42:20 INFO: 
+Normalized coordinates range:
+2023-04-14 20:42:20 INFO: Min normalized x: 0.0
+2023-04-14 20:42:20 INFO: Max normalized x: 1.0
+2023-04-14 20:42:20 INFO: Min normalized y: 0.0
+2023-04-14 20:42:20 INFO: Max normalized y: 1.0
+2023-04-14 20:44:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:44:29 INFO: Number of points: 25012
+2023-04-14 20:44:29 INFO: Number of cells: 12225
+2023-04-14 20:44:29 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:44:29 INFO: Available data fields:
+2023-04-14 20:44:29 INFO: - p
+2023-04-14 20:44:29 INFO: - U
+2023-04-14 20:44:29 INFO: Input parameters:
+2023-04-14 20:44:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:44:29 INFO: x_range: (0, 1)
+2023-04-14 20:44:29 INFO: y_range: (0, 1)
+2023-04-14 20:44:29 INFO: cmap: jet
+2023-04-14 20:44:29 INFO: grids: on
+2023-04-14 20:44:29 INFO: normalization: on
+2023-04-14 20:44:29 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:44:29 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:44:29 INFO: Max velocity_x: 10.195104
+2023-04-14 20:44:29 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:44:29 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:44:29 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:44:29 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:44:29 INFO: 
+Normalized coordinates range:
+2023-04-14 20:44:29 INFO: Min normalized x: 0.0
+2023-04-14 20:44:29 INFO: Max normalized x: 1.0
+2023-04-14 20:44:29 INFO: Min normalized y: 0.0
+2023-04-14 20:44:29 INFO: Max normalized y: 1.0
+2023-04-14 20:45:55 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:45:55 INFO: Number of points: 25012
+2023-04-14 20:45:55 INFO: Number of cells: 12225
+2023-04-14 20:45:55 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:45:55 INFO: Available data fields:
+2023-04-14 20:45:55 INFO: - p
+2023-04-14 20:45:55 INFO: - U
+2023-04-14 20:45:55 INFO: Input parameters:
+2023-04-14 20:45:55 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:45:55 INFO: x_range: (0, 1)
+2023-04-14 20:45:55 INFO: y_range: (0, 1)
+2023-04-14 20:45:55 INFO: cmap: jet
+2023-04-14 20:45:55 INFO: grids: on
+2023-04-14 20:45:55 INFO: normalization: on
+2023-04-14 20:45:55 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:45:55 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:45:55 INFO: Max velocity_x: 10.195104
+2023-04-14 20:45:55 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:45:55 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:45:55 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:45:55 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:45:55 INFO: 
+Normalized coordinates range:
+2023-04-14 20:45:55 INFO: Min normalized x: 0.0
+2023-04-14 20:45:55 INFO: Max normalized x: 1.0
+2023-04-14 20:45:55 INFO: Min normalized y: 0.0
+2023-04-14 20:45:55 INFO: Max normalized y: 1.0
+2023-04-14 20:48:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:48:29 INFO: Number of points: 25012
+2023-04-14 20:48:29 INFO: Number of cells: 12225
+2023-04-14 20:48:29 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:48:29 INFO: Available data fields:
+2023-04-14 20:48:29 INFO: - p
+2023-04-14 20:48:29 INFO: - U
+2023-04-14 20:48:29 INFO: Input parameters:
+2023-04-14 20:48:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:48:29 INFO: x_range: (0, 1)
+2023-04-14 20:48:29 INFO: y_range: (0, 1)
+2023-04-14 20:48:29 INFO: cmap: jet
+2023-04-14 20:48:29 INFO: grids: on
+2023-04-14 20:48:29 INFO: normalization: on
+2023-04-14 20:48:29 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:48:29 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:48:29 INFO: Max velocity_x: 10.195104
+2023-04-14 20:48:29 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:48:29 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:48:29 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:48:29 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:48:29 INFO: 
+Normalized coordinates range:
+2023-04-14 20:48:29 INFO: Min normalized x: 0.0
+2023-04-14 20:48:29 INFO: Max normalized x: 1.0
+2023-04-14 20:48:29 INFO: Min normalized y: 0.0
+2023-04-14 20:48:29 INFO: Max normalized y: 1.0
+2023-04-14 20:49:43 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:49:43 INFO: Number of points: 25012
+2023-04-14 20:49:43 INFO: Number of cells: 12225
+2023-04-14 20:49:43 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:49:43 INFO: Available data fields:
+2023-04-14 20:49:43 INFO: - p
+2023-04-14 20:49:43 INFO: - U
+2023-04-14 20:49:43 INFO: Input parameters:
+2023-04-14 20:49:43 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:49:43 INFO: x_range: (0, 1)
+2023-04-14 20:49:43 INFO: y_range: (0, 1)
+2023-04-14 20:49:43 INFO: cmap: jet
+2023-04-14 20:49:43 INFO: grids: on
+2023-04-14 20:49:43 INFO: normalization: on
+2023-04-14 20:49:43 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:49:43 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:49:43 INFO: Max velocity_x: 10.195104
+2023-04-14 20:49:43 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:49:43 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:49:43 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:49:43 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:49:43 INFO: 
+Normalized coordinates range:
+2023-04-14 20:49:43 INFO: Min normalized x: 0.0
+2023-04-14 20:49:43 INFO: Max normalized x: 1.0
+2023-04-14 20:49:43 INFO: Min normalized y: 0.0
+2023-04-14 20:49:43 INFO: Max normalized y: 1.0
+2023-04-14 20:51:42 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:51:42 INFO: Number of points: 25012
+2023-04-14 20:51:42 INFO: Number of cells: 12225
+2023-04-14 20:51:42 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 20:51:42 INFO: Available data fields:
+2023-04-14 20:51:42 INFO: - p
+2023-04-14 20:51:42 INFO: - U
+2023-04-14 20:51:42 INFO: Input parameters:
+2023-04-14 20:51:42 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 20:51:42 INFO: x_range: (0, 1)
+2023-04-14 20:51:42 INFO: y_range: (0, 1)
+2023-04-14 20:51:42 INFO: cmap: jet
+2023-04-14 20:51:42 INFO: grids: on
+2023-04-14 20:51:42 INFO: normalization: on
+2023-04-14 20:51:42 INFO: 
+Velocity_x data statistics:
+2023-04-14 20:51:42 INFO: Min velocity_x: -2.5150898
+2023-04-14 20:51:42 INFO: Max velocity_x: 10.195104
+2023-04-14 20:51:42 INFO: Mean velocity_x: 5.353529
+2023-04-14 20:51:42 INFO: Min velocity_x: -0.67796654
+2023-04-14 20:51:42 INFO: Max velocity_x: 0.6547807
+2023-04-14 20:51:42 INFO: Mean velocity_x: -0.12784423
+2023-04-14 20:51:42 INFO: 
+Normalized coordinates range:
+2023-04-14 20:51:42 INFO: Min normalized x: 0.0
+2023-04-14 20:51:42 INFO: Max normalized x: 1.0
+2023-04-14 20:51:42 INFO: Min normalized y: 0.0
+2023-04-14 20:51:42 INFO: Max normalized y: 1.0
+2023-04-14 21:00:34 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 21:00:34 INFO: Number of points: 25012
+2023-04-14 21:00:34 INFO: Number of cells: 12225
+2023-04-14 21:00:34 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:00:34 INFO: Available data fields:
+2023-04-14 21:00:34 INFO: - p
+2023-04-14 21:00:34 INFO: - U
+2023-04-14 21:00:34 INFO: Input parameters:
+2023-04-14 21:00:34 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 21:00:34 INFO: x_range: (0, 1)
+2023-04-14 21:00:34 INFO: y_range: (0, 1)
+2023-04-14 21:00:34 INFO: cmap: jet
+2023-04-14 21:00:34 INFO: grids: on
+2023-04-14 21:00:34 INFO: normalization: on
+2023-04-14 21:00:34 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:00:34 INFO: Min velocity_x: -2.5150898
+2023-04-14 21:00:34 INFO: Max velocity_x: 10.195104
+2023-04-14 21:00:34 INFO: Mean velocity_x: 5.353529
+2023-04-14 21:00:34 INFO: Min velocity_x: -0.67796654
+2023-04-14 21:00:34 INFO: Max velocity_x: 0.6547807
+2023-04-14 21:00:34 INFO: Mean velocity_x: -0.12784423
+2023-04-14 21:00:34 INFO: 
+Normalized coordinates range:
+2023-04-14 21:00:34 INFO: Min normalized x: 0.0
+2023-04-14 21:00:34 INFO: Max normalized x: 1.0
+2023-04-14 21:00:34 INFO: Min normalized y: 0.0
+2023-04-14 21:00:34 INFO: Max normalized y: 1.0
+2023-04-14 21:00:48 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 21:00:48 INFO: Number of points: 25012
+2023-04-14 21:00:48 INFO: Number of cells: 12225
+2023-04-14 21:00:48 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:00:48 INFO: Available data fields:
+2023-04-14 21:00:48 INFO: - p
+2023-04-14 21:00:48 INFO: - U
+2023-04-14 21:00:48 INFO: Input parameters:
+2023-04-14 21:00:48 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 21:00:48 INFO: x_range: (0, 1)
+2023-04-14 21:00:48 INFO: y_range: (0, 1)
+2023-04-14 21:00:48 INFO: cmap: jet
+2023-04-14 21:00:48 INFO: grids: off
+2023-04-14 21:00:48 INFO: normalization: on
+2023-04-14 21:00:48 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:00:48 INFO: Min velocity_x: -2.5150898
+2023-04-14 21:00:48 INFO: Max velocity_x: 10.195104
+2023-04-14 21:00:48 INFO: Mean velocity_x: 5.353529
+2023-04-14 21:00:48 INFO: Min velocity_x: -0.67796654
+2023-04-14 21:00:48 INFO: Max velocity_x: 0.6547807
+2023-04-14 21:00:48 INFO: Mean velocity_x: -0.12784423
+2023-04-14 21:00:48 INFO: 
+Normalized coordinates range:
+2023-04-14 21:00:48 INFO: Min normalized x: 0.0
+2023-04-14 21:00:48 INFO: Max normalized x: 1.0
+2023-04-14 21:00:48 INFO: Min normalized y: 0.0
+2023-04-14 21:00:48 INFO: Max normalized y: 1.0
+2023-04-14 21:01:03 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 21:01:03 INFO: Number of points: 25012
+2023-04-14 21:01:03 INFO: Number of cells: 12225
+2023-04-14 21:01:03 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:01:03 INFO: Available data fields:
+2023-04-14 21:01:03 INFO: - p
+2023-04-14 21:01:03 INFO: - U
+2023-04-14 21:01:03 INFO: Input parameters:
+2023-04-14 21:01:03 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 21:01:03 INFO: x_range: (0, 1)
+2023-04-14 21:01:03 INFO: y_range: (0, 1)
+2023-04-14 21:01:03 INFO: cmap: jet
+2023-04-14 21:01:03 INFO: grids: off
+2023-04-14 21:01:03 INFO: normalization: on
+2023-04-14 21:01:03 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:01:03 INFO: Min velocity_x: -2.5150898
+2023-04-14 21:01:03 INFO: Max velocity_x: 10.195104
+2023-04-14 21:01:03 INFO: Mean velocity_x: 5.353529
+2023-04-14 21:01:03 INFO: Min velocity_x: -0.67796654
+2023-04-14 21:01:03 INFO: Max velocity_x: 0.6547807
+2023-04-14 21:01:03 INFO: Mean velocity_x: -0.12784423
+2023-04-14 21:01:03 INFO: 
+Normalized coordinates range:
+2023-04-14 21:01:03 INFO: Min normalized x: 0.0
+2023-04-14 21:01:03 INFO: Max normalized x: 1.0
+2023-04-14 21:01:03 INFO: Min normalized y: 0.0
+2023-04-14 21:01:03 INFO: Max normalized y: 1.0
+2023-04-14 21:10:44 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 21:10:44 INFO: Number of points: 25012
+2023-04-14 21:10:44 INFO: Number of cells: 12225
+2023-04-14 21:10:44 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:10:44 INFO: Available data fields:
+2023-04-14 21:10:44 INFO: - p
+2023-04-14 21:10:44 INFO: - U
+2023-04-14 21:10:44 INFO: Input parameters:
+2023-04-14 21:10:44 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 21:10:44 INFO: x_range: (0, 1)
+2023-04-14 21:10:44 INFO: y_range: (0, 1)
+2023-04-14 21:10:44 INFO: cmap: jet
+2023-04-14 21:10:44 INFO: grids: off
+2023-04-14 21:10:44 INFO: normalization: on
+2023-04-14 21:10:44 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:10:44 INFO: Min velocity_x: -2.5150898
+2023-04-14 21:10:44 INFO: Max velocity_x: 10.195104
+2023-04-14 21:10:44 INFO: Mean velocity_x: 5.353529
+2023-04-14 21:10:44 INFO: Min velocity_x: -0.67796654
+2023-04-14 21:10:44 INFO: Max velocity_x: 0.6547807
+2023-04-14 21:10:44 INFO: Mean velocity_x: -0.12784423
+2023-04-14 21:10:44 INFO: 
+Normalized coordinates range:
+2023-04-14 21:10:44 INFO: Min normalized x: 0.0
+2023-04-14 21:10:44 INFO: Max normalized x: 1.0
+2023-04-14 21:10:44 INFO: Min normalized y: 0.0
+2023-04-14 21:10:44 INFO: Max normalized y: 1.0
+2023-04-14 21:13:01 INFO: VTK file: /home/home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:15:48 INFO: VTK file: /home/home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:16:07 INFO: VTK file: /home/home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:17:17 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:17:17 INFO: Number of points: 882
+2023-04-14 21:17:17 INFO: Number of cells: 400
+2023-04-14 21:17:17 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:17:17 INFO: Available data fields:
+2023-04-14 21:17:17 INFO: - U
+2023-04-14 21:17:17 INFO: Input parameters:
+2023-04-14 21:17:17 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:17:17 INFO: x_range: (0, 1)
+2023-04-14 21:17:17 INFO: y_range: (0, 1)
+2023-04-14 21:17:17 INFO: cmap: jet
+2023-04-14 21:17:17 INFO: grids: off
+2023-04-14 21:17:17 INFO: normalization: on
+2023-04-14 21:17:17 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:17:17 INFO: Min velocity_x: -0.20070025
+2023-04-14 21:17:17 INFO: Max velocity_x: 1.0
+2023-04-14 21:17:17 INFO: Mean velocity_x: 0.030602258
+2023-04-14 21:17:17 INFO: Min velocity_x: -0.35112524
+2023-04-14 21:17:17 INFO: Max velocity_x: 0.32135126
+2023-04-14 21:17:17 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 21:17:17 INFO: 
+Normalized coordinates range:
+2023-04-14 21:17:17 INFO: Min normalized x: 0.0
+2023-04-14 21:17:17 INFO: Max normalized x: 1.0
+2023-04-14 21:17:17 INFO: Min normalized y: 0.0
+2023-04-14 21:17:17 INFO: Max normalized y: 1.0
+2023-04-14 21:17:59 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:17:59 INFO: Number of points: 882
+2023-04-14 21:17:59 INFO: Number of cells: 400
+2023-04-14 21:17:59 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:17:59 INFO: Available data fields:
+2023-04-14 21:17:59 INFO: - U
+2023-04-14 21:17:59 INFO: Input parameters:
+2023-04-14 21:17:59 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:17:59 INFO: x_range: (0, 1)
+2023-04-14 21:17:59 INFO: y_range: (0, 1)
+2023-04-14 21:17:59 INFO: cmap: jet
+2023-04-14 21:17:59 INFO: grids: off
+2023-04-14 21:17:59 INFO: normalization: on
+2023-04-14 21:17:59 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:17:59 INFO: Min velocity_x: -0.20070025
+2023-04-14 21:17:59 INFO: Max velocity_x: 1.0
+2023-04-14 21:17:59 INFO: Mean velocity_x: 0.030602258
+2023-04-14 21:17:59 INFO: Min velocity_x: -0.35112524
+2023-04-14 21:17:59 INFO: Max velocity_x: 0.32135126
+2023-04-14 21:17:59 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 21:17:59 INFO: 
+Normalized coordinates range:
+2023-04-14 21:17:59 INFO: Min normalized x: 0.0
+2023-04-14 21:17:59 INFO: Max normalized x: 1.0
+2023-04-14 21:17:59 INFO: Min normalized y: 0.0
+2023-04-14 21:17:59 INFO: Max normalized y: 1.0
+2023-04-14 21:19:44 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:19:44 INFO: Number of points: 882
+2023-04-14 21:19:44 INFO: Number of cells: 400
+2023-04-14 21:19:44 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:19:44 INFO: Available data fields:
+2023-04-14 21:19:44 INFO: - U
+2023-04-14 21:19:44 INFO: Input parameters:
+2023-04-14 21:19:44 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:19:44 INFO: x_range: (0, 1)
+2023-04-14 21:19:44 INFO: y_range: (0, 1)
+2023-04-14 21:19:44 INFO: cmap: jet
+2023-04-14 21:19:44 INFO: grids: off
+2023-04-14 21:19:44 INFO: normalization: on
+2023-04-14 21:19:44 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:19:44 INFO: Min velocity_x: -0.20070025
+2023-04-14 21:19:44 INFO: Max velocity_x: 1.0
+2023-04-14 21:19:44 INFO: Mean velocity_x: 0.030602258
+2023-04-14 21:19:44 INFO: Min velocity_x: -0.35112524
+2023-04-14 21:19:44 INFO: Max velocity_x: 0.32135126
+2023-04-14 21:19:44 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 21:19:44 INFO: 
+Normalized coordinates range:
+2023-04-14 21:19:44 INFO: Min normalized x: 0.0
+2023-04-14 21:19:44 INFO: Max normalized x: 1.0
+2023-04-14 21:19:44 INFO: Min normalized y: 0.0
+2023-04-14 21:19:44 INFO: Max normalized y: 1.0
+2023-04-14 21:20:10 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:20:10 INFO: Number of points: 882
+2023-04-14 21:20:10 INFO: Number of cells: 400
+2023-04-14 21:20:10 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:20:10 INFO: Available data fields:
+2023-04-14 21:20:10 INFO: - U
+2023-04-14 21:20:10 INFO: Input parameters:
+2023-04-14 21:20:10 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:20:10 INFO: x_range: (0, 1)
+2023-04-14 21:20:10 INFO: y_range: (0, 1)
+2023-04-14 21:20:10 INFO: cmap: jet
+2023-04-14 21:20:10 INFO: grids: off
+2023-04-14 21:20:10 INFO: normalization: on
+2023-04-14 21:20:10 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:20:10 INFO: Min velocity_x: -0.20070025
+2023-04-14 21:20:10 INFO: Max velocity_x: 1.0
+2023-04-14 21:20:10 INFO: Mean velocity_x: 0.030602258
+2023-04-14 21:20:10 INFO: Min velocity_x: -0.35112524
+2023-04-14 21:20:10 INFO: Max velocity_x: 0.32135126
+2023-04-14 21:20:10 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 21:20:10 INFO: 
+Normalized coordinates range:
+2023-04-14 21:20:10 INFO: Min normalized x: 0.0
+2023-04-14 21:20:10 INFO: Max normalized x: 1.0
+2023-04-14 21:20:10 INFO: Min normalized y: 0.0
+2023-04-14 21:20:10 INFO: Max normalized y: 1.0
+2023-04-14 21:20:38 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:20:38 INFO: Number of points: 882
+2023-04-14 21:20:38 INFO: Number of cells: 400
+2023-04-14 21:20:38 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:20:38 INFO: Available data fields:
+2023-04-14 21:20:38 INFO: - U
+2023-04-14 21:20:38 INFO: Input parameters:
+2023-04-14 21:20:38 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:20:38 INFO: x_range: (0, 1)
+2023-04-14 21:20:38 INFO: y_range: (0, 1)
+2023-04-14 21:20:38 INFO: cmap: jet
+2023-04-14 21:20:38 INFO: grids: off
+2023-04-14 21:20:38 INFO: normalization: on
+2023-04-14 21:20:38 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:20:38 INFO: Min velocity_x: -0.20070025
+2023-04-14 21:20:38 INFO: Max velocity_x: 1.0
+2023-04-14 21:20:38 INFO: Mean velocity_x: 0.030602258
+2023-04-14 21:20:38 INFO: Min velocity_x: -0.35112524
+2023-04-14 21:20:38 INFO: Max velocity_x: 0.32135126
+2023-04-14 21:20:38 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 21:20:38 INFO: 
+Normalized coordinates range:
+2023-04-14 21:20:38 INFO: Min normalized x: 0.0
+2023-04-14 21:20:38 INFO: Max normalized x: 1.0
+2023-04-14 21:20:38 INFO: Min normalized y: 0.0
+2023-04-14 21:20:38 INFO: Max normalized y: 1.0
+2023-04-14 21:20:53 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:20:53 INFO: Number of points: 882
+2023-04-14 21:20:53 INFO: Number of cells: 400
+2023-04-14 21:20:53 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:20:53 INFO: Available data fields:
+2023-04-14 21:20:53 INFO: - U
+2023-04-14 21:20:53 INFO: Input parameters:
+2023-04-14 21:20:53 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:20:53 INFO: x_range: (0, 1)
+2023-04-14 21:20:53 INFO: y_range: (0, 1)
+2023-04-14 21:20:53 INFO: cmap: hot
+2023-04-14 21:20:53 INFO: grids: off
+2023-04-14 21:20:53 INFO: normalization: on
+2023-04-14 21:20:53 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:20:53 INFO: Min velocity_x: -0.20070025
+2023-04-14 21:20:53 INFO: Max velocity_x: 1.0
+2023-04-14 21:20:53 INFO: Mean velocity_x: 0.030602258
+2023-04-14 21:20:53 INFO: Min velocity_x: -0.35112524
+2023-04-14 21:20:53 INFO: Max velocity_x: 0.32135126
+2023-04-14 21:20:53 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 21:20:53 INFO: 
+Normalized coordinates range:
+2023-04-14 21:20:53 INFO: Min normalized x: 0.0
+2023-04-14 21:20:53 INFO: Max normalized x: 1.0
+2023-04-14 21:20:53 INFO: Min normalized y: 0.0
+2023-04-14 21:20:53 INFO: Max normalized y: 1.0
+2023-04-14 21:21:02 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:21:02 INFO: Number of points: 882
+2023-04-14 21:21:02 INFO: Number of cells: 400
+2023-04-14 21:21:02 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:21:02 INFO: Available data fields:
+2023-04-14 21:21:02 INFO: - U
+2023-04-14 21:21:02 INFO: Input parameters:
+2023-04-14 21:21:02 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:21:02 INFO: x_range: (0, 1)
+2023-04-14 21:21:02 INFO: y_range: (0, 1)
+2023-04-14 21:21:02 INFO: cmap: coolwarm
+2023-04-14 21:21:02 INFO: grids: off
+2023-04-14 21:21:02 INFO: normalization: on
+2023-04-14 21:21:02 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:21:02 INFO: Min velocity_x: -0.20070025
+2023-04-14 21:21:02 INFO: Max velocity_x: 1.0
+2023-04-14 21:21:02 INFO: Mean velocity_x: 0.030602258
+2023-04-14 21:21:02 INFO: Min velocity_x: -0.35112524
+2023-04-14 21:21:02 INFO: Max velocity_x: 0.32135126
+2023-04-14 21:21:02 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 21:21:02 INFO: 
+Normalized coordinates range:
+2023-04-14 21:21:02 INFO: Min normalized x: 0.0
+2023-04-14 21:21:02 INFO: Max normalized x: 1.0
+2023-04-14 21:21:02 INFO: Min normalized y: 0.0
+2023-04-14 21:21:02 INFO: Max normalized y: 1.0
+2023-04-14 21:25:13 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:25:13 INFO: Number of points: 882
+2023-04-14 21:25:13 INFO: Number of cells: 400
+2023-04-14 21:25:13 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:25:13 INFO: Available data fields:
+2023-04-14 21:25:13 INFO: - U
+2023-04-14 21:25:13 INFO: Input parameters:
+2023-04-14 21:25:13 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:25:13 INFO: x_range: (0, 1)
+2023-04-14 21:25:13 INFO: y_range: (0, 1)
+2023-04-14 21:25:13 INFO: cmap: coolwarm
+2023-04-14 21:25:13 INFO: grids: off
+2023-04-14 21:25:13 INFO: normalization: on
+2023-04-14 21:25:13 INFO: 
+Velocity_x data statistics:
+2023-04-14 21:25:13 INFO: Min velocity_x: -0.20070025
+2023-04-14 21:25:13 INFO: Max velocity_x: 1.0
+2023-04-14 21:25:13 INFO: Mean velocity_x: 0.030602258
+2023-04-14 21:25:13 INFO: Min velocity_x: -0.35112524
+2023-04-14 21:25:13 INFO: Max velocity_x: 0.32135126
+2023-04-14 21:25:13 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 21:25:13 INFO: 
+Normalized coordinates range:
+2023-04-14 21:25:13 INFO: Min normalized x: 0.0
+2023-04-14 21:25:13 INFO: Max normalized x: 1.0
+2023-04-14 21:25:13 INFO: Min normalized y: 0.0
+2023-04-14 21:25:13 INFO: Max normalized y: 1.0

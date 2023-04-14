@@ -85,7 +85,9 @@ class PostProcessBase:
         if self.z_value == None:
             self.z_value = np.max(self.z)
             logging.info('thez_value of cross section:%s:',{self.z_value})
-        
+        else:
+            self.z_value=np.float32(self.z_value)
+
         cell_points_ids=self.get_cell_points_ids()
         xy_cells=[]
         

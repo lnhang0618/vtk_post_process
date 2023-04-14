@@ -18,6 +18,10 @@ class Velocity_Post_Process(PostProcessBase):
         self.cmap = cmap
         self.meshes=meshes
         self.normalization=normalization
+                
+        #定义计算方向
+        self.component = kwargs.get('component')
+        self.with_vector=kwargs.get('with_vector')
         
         #statistics:
         logging.info("Input parameters:")
@@ -35,6 +39,7 @@ class Velocity_Post_Process(PostProcessBase):
         velocity = self.get_field("U")
         self.velocity_x = velocity[:, self.axis_map['x']]
         self.velocity_y = velocity[:, self.axis_map['y']]
+        self.velocity_all = np.sqrt(self.velocity_x**2*self.velocity_y**2)
         
         #statistics:
         logging.info("\nVelocity_x data statistics:")
@@ -52,14 +57,25 @@ class Velocity_Post_Process(PostProcessBase):
 
        
 
-    def plot_velocity_x_contour(self):
+    def plot_velocity_contour(self):
     
         # 创建一个新的图形和一个轴对象
         fig, ax = plt.subplots()
     
         # 使用三角剖分方法绘制填充的速度等高线图
-        contour = ax.tricontourf(self.x, self.y, self.velocity_x, cmap=self.cmap, levels=12)
-
+        if self.component=='x':
+            contour = ax.tricontourf(self.x, self.y, self.velocity_x, cmap=self.cmap, levels=12)
+        elif self.component == 'y':
+            contour = ax.tricontourf(self.x, self.y, self.velocity_y, cmap=self.cmap, levels=12)
+        elif self.component == 'all':
+            contour = ax.tricontourf(self.x, self.y, self.velocity_all, cmap=self.cmap, levels=12)
+            if self.with_vector=='on':
+                # 绘制矢量图
+                ax.quiver(self.x, self.y, self.velocity_x,self.velocity_y)
+                
+        else:
+            raise ValueError("Invalid component. Valid options are 'x', 'y', and 'all'.")
+        
         # 为x和y轴添加标签
         ax.set_xlabel('x')
         ax.set_ylabel('y')
@@ -69,38 +85,16 @@ class Velocity_Post_Process(PostProcessBase):
         ax.set_ylim(self.y_range)
 
         # 添加图标题
-        ax.set_title('Velocity_x in the region where {0} < x < {1} and {2} < y < {3}'.format(*self.x_range, *self.y_range), fontsize=10)
+        ax.set_title('Velocity_{} in the region where {} < x < {} and {} < y < {}'.format(self.component, *self.x_range, *self.y_range), fontsize=10)
 
         # 添加颜色条
-        fig.colorbar(contour, ax=ax, label='Velocity', fraction=0.05, pad=0.1)
+        fig.colorbar(contour, ax=ax, label='Velocity_{}'.format(self.component), fraction=0.05, pad=0.1)
 
         # 显示网格线
         if self.meshes == 'on':
             super().draw_xy_meshes(ax)
         else:
             ax.grid()
-
-        # 显示图形
-        plt.show()
-
-    def plot_U_vector(self):
-        # 创建一个新的图形和一个轴对象
-        fig, ax = plt.subplots()
-    
-        # 绘制矢量图
-        ax.quiver(self.x, self.y, self.velocity_x, self.velocity_y)
-    
-        # 为x轴和y轴添加标签
-        ax.set_xlabel('x')
-        ax.set_ylabel('y')
-    
-        # 设置x, y轴的显示范围
-        ax.set_xlim(self.x_range)
-        ax.set_ylim(self.y_range)
-        
-    
-        # 添加图标题
-        ax.set_title('Velocity vectors in the region where {0} < x < {1} and {2} < y < {3}'.format(*self.x_range, *self.y_range), fontsize=10)
 
         # 显示图形
         plt.show()
