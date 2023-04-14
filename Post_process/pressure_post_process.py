@@ -7,6 +7,7 @@ import logging
 from .post_process_base import PostProcessBase
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.tri as tri
 
 logging.basicConfig(filename='post_process.log', level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
@@ -53,9 +54,12 @@ class Pressure_Post_Process(PostProcessBase):
         
         # 创建一个新的图形和一个轴对象
         fig, ax = plt.subplots()
+        
+        # 创建一个Triangulation对象
+        triangulation = tri.Triangulation(self.x, self.y, self.triangulated_cells)
 
         # 使用三角剖分方法绘制填充的压力等高线图
-        contour = plt.tricontourf(self.x,self.y, self.pressure, cmap=self.cmap,levels=12)
+        contour = plt.tricontourf(triangulation, self.pressure, cmap=self.cmap,levels=12)
 
 
         # 为x和y轴添加标签

@@ -8,6 +8,7 @@ import logging
 from .post_process_base import PostProcessBase
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.tri as tri
 
 logging.basicConfig(filename='post_process.log', level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
@@ -47,21 +48,19 @@ class Vorticity_Post_Process(PostProcessBase):
         if self.normalization =='on':
             super().normalization()
     
-    def _draw_grid_lines(self):
-        cell_points = self.get_cell_points_ids()
             
 
     def plot_vorticity_contour(self):
 
         # 创建一个新的图形和一个轴对象
         fig, ax = plt.subplots()
+        
+        # 创建一个Triangulation对象
+        triangulation = tri.Triangulation(self.x, self.y, self.triangulated_cells)
 
-       # 绘制网格线
-        if self.meshes == 'on':
-           self._draw_grid_lines()
         
         # 使用三角剖分方法绘制填充的涡量等高线图
-        contour = ax.tricontourf(self.x,self.y, self.vorticity_z, cmap=self.cmap,levels=12)
+        contour = ax.tricontourf(triangulation, self.vorticity_z, cmap=self.cmap,levels=12)
 
         #绘制计算网格
         if self.meshes == 'on':
@@ -82,6 +81,12 @@ class Vorticity_Post_Process(PostProcessBase):
 
         # 添加颜色条
         plt.colorbar(contour,ax=ax,label='Vorticity', fraction=0.05, pad=0.1)
+        
+        #绘制计算网格
+        if self.meshes == 'on':
+            super().draw_xy_meshes(ax)
+        else:
+            ax.grid()
 
 
         # 显示图形

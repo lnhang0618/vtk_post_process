@@ -17,19 +17,19 @@ class Choice(Enum):
     VORTICITY = "vorticity"
 
 params = {
-    'vtk_file': '/home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk',
+    'vtk_file': '/home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk',
     'x_range': (0, 1),
     'y_range': (0, 1),
     'cmap': 'coolwarm',
-    'meshes': 'off',
+    'meshes': 'on',
     'normalization': 'on',
     'axis_map': {'x': 0, 'y': 1, 'z': 2},
-    'z_value': 0,
+    'z_value': 0.0005,
     'component': 'all',
-    'with_vector': 'on'
+    'with_vector': 'off'
 }
 
-choices = [Choice.VELOCITY]
+choices = [Choice.VORTICITY]
 
 class PostProcessor:
     def __init__(self, params):

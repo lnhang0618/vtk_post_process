@@ -18,8 +18,10 @@ class PostProcessBase:
                 "Invalid axis_map. Must be a dictionary containing 'x', 'y', and 'z' keys."
     
         self._read_vtk_file()
-        self.print_info()
         self.z_value = kwargs.get('z_value', None)
+        self.get_points()
+        self.sort_xy_meshes()
+        self.print_info()
     
     #读取VTK文件
     def _read_vtk_file(self):
@@ -84,7 +86,8 @@ class PostProcessBase:
     def get_xy_cells(self):
         if self.z_value == None:
             self.z_value = np.max(self.z)
-            logging.info('thez_value of cross section:%s:',{self.z_value})
+            logging.info("\nz_value of cross section")
+            logging.info('the z_value of cross section:%s:',{self.z_value})
         else:
             self.z_value=np.float32(self.z_value)
 
@@ -92,23 +95,42 @@ class PostProcessBase:
         xy_cells=[]
         
         for cell in cell_points_ids:
-            filtered_cell = [vertex_id for vertex_id in cell if abs(self.z[vertex_id]) == self.z_value]
+            filtered_cell = [vertex_id for vertex_id in cell if self.z[vertex_id] == self.z_value]
             xy_cells.append(filtered_cell)
         
         return xy_cells
     
-    #绘画计算网格
-    def draw_xy_meshes(self,ax):
+    #计算网格点顺序
+    def sort_xy_meshes(self):
         xy_cells=self.get_xy_cells()
+        self.sorted_cell=[]
+        self.triangulated_cells = []
 
         for cell in xy_cells:
             # 计算每个点相对于单元格质心的角度(极角)
             centroid = np.mean([[self.x[vertex_id], self.y[vertex_id]] for vertex_id in cell], axis=0)
             angles = [np.arctan2(self.y[vertex_id] - centroid[1], self.x[vertex_id] - centroid[0]) for vertex_id in cell]
             # 根据角度对点进行排序
-            sorted_cell = [vertex_id for _, vertex_id in sorted(zip(angles, cell))]
+            tmp = [vertex_id for _, vertex_id in sorted(zip(angles, cell))]
+            self.sorted_cell.append(tmp)
+            
+            # 对于四边形，将其划分为两个三角形
+            if len(tmp) == 4:
+                self.triangulated_cells.append([tmp[0], tmp[1], tmp[2]])
+                self.triangulated_cells.append([tmp[2], tmp[3], tmp[0]])
+            # 对于三角形，直接添加到triangulated_cells中
+            elif len(tmp) == 3:
+                self.triangulated_cells.append(tmp)
+        
+        logging.info('\nInformation about sort_xy_meshed')
+        logging.info('number of cells in tmp:%s',{len(tmp)})
+        logging.info('number of sorted_cell:%s',{len(self.sorted_cell)})
+        logging.info('number of trianglulated_cells:%s',{len(self.triangulated_cells)})
 
-            # 连接每个单元格内的点
+    def draw_xy_meshes(self,ax):
+        # 连接每个单元格内的点
+        for sorted_cell in self.sorted_cell:
+        # 连接每个单元格内的点
             for i in range(len(sorted_cell)):
                 point1 = sorted_cell[i]
                 point2 = sorted_cell[(i + 1) % len(sorted_cell)]
@@ -119,6 +141,7 @@ class PostProcessBase:
     
     #statistics
     def print_info(self):
+        logging.info('\nBasic information of VTK')
         logging.info(f"VTK file: {self.vtk_file}")
         logging.info(f"Number of points: {self.unstructured_grid.GetNumberOfPoints()}")
         logging.info(f"Number of cells: {self.unstructured_grid.GetNumberOfCells()}")

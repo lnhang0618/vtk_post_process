@@ -7,6 +7,7 @@ import logging
 from .post_process_base import PostProcessBase
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.tri as tri
 
 logging.basicConfig(filename='post_process.log', level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
@@ -25,7 +26,6 @@ class Velocity_Post_Process(PostProcessBase):
         
         #statistics:
         logging.info("Input parameters:")
-        logging.info("VTK file: %s", self.vtk_file)
         logging.info("x_range: %s", self.x_range)
         logging.info("y_range: %s", self.y_range)
         logging.info("cmap: %s", self.cmap)
@@ -42,7 +42,7 @@ class Velocity_Post_Process(PostProcessBase):
         self.velocity_all = np.sqrt(self.velocity_x**2*self.velocity_y**2)
         
         #statistics:
-        logging.info("\nVelocity_x data statistics:")
+        logging.info("\nVelocity_{} data statistics:".format(self.component))
         logging.info("Min velocity_x: %s", np.min(self.velocity_x))
         logging.info("Max velocity_x: %s", np.max(self.velocity_x))
         logging.info("Mean velocity_x: %s", np.mean(self.velocity_x))
@@ -61,14 +61,17 @@ class Velocity_Post_Process(PostProcessBase):
     
         # 创建一个新的图形和一个轴对象
         fig, ax = plt.subplots()
+        
+        # 创建一个Triangulation对象
+        triangulation = tri.Triangulation(self.x, self.y, self.triangulated_cells)
     
         # 使用三角剖分方法绘制填充的速度等高线图
         if self.component=='x':
-            contour = ax.tricontourf(self.x, self.y, self.velocity_x, cmap=self.cmap, levels=12)
+            contour = ax.tricontourf(triangulation, self.velocity_x, cmap=self.cmap, levels=12)
         elif self.component == 'y':
-            contour = ax.tricontourf(self.x, self.y, self.velocity_y, cmap=self.cmap, levels=12)
+            contour = ax.tricontourf(triangulation, self.velocity_y, cmap=self.cmap, levels=12)
         elif self.component == 'all':
-            contour = ax.tricontourf(self.x, self.y, self.velocity_all, cmap=self.cmap, levels=12)
+            contour = ax.tricontourf(triangulation, self.velocity_all, cmap=self.cmap, levels=12)
             if self.with_vector=='on':
                 # 绘制矢量图
                 ax.quiver(self.x, self.y, self.velocity_x,self.velocity_y)

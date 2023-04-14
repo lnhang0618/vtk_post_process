@@ -4780,3 +4780,1149 @@ Normalized coordinates range:
 2023-04-14 21:25:13 INFO: Max normalized x: 1.0
 2023-04-14 21:25:13 INFO: Min normalized y: 0.0
 2023-04-14 21:25:13 INFO: Max normalized y: 1.0
+2023-04-14 21:54:08 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 21:54:08 INFO: Number of points: 882
+2023-04-14 21:54:08 INFO: Number of cells: 400
+2023-04-14 21:54:08 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 21:54:08 INFO: Available data fields:
+2023-04-14 21:54:08 INFO: - U
+2023-04-14 22:10:51 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:10:51 INFO: Number of points: 882
+2023-04-14 22:10:51 INFO: Number of cells: 400
+2023-04-14 22:10:51 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:10:51 INFO: Available data fields:
+2023-04-14 22:10:51 INFO: - U
+2023-04-14 22:10:51 INFO: Input parameters:
+2023-04-14 22:10:51 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:10:51 INFO: x_range: (0, 1)
+2023-04-14 22:10:51 INFO: y_range: (0, 1)
+2023-04-14 22:10:51 INFO: cmap: coolwarm
+2023-04-14 22:10:51 INFO: grids: off
+2023-04-14 22:10:51 INFO: normalization: on
+2023-04-14 22:10:51 INFO: 
+Velocity_x data statistics:
+2023-04-14 22:10:51 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:10:51 INFO: Max velocity_x: 1.0
+2023-04-14 22:10:51 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:10:51 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:10:51 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:10:51 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:10:51 INFO: 
+Normalized coordinates range:
+2023-04-14 22:10:51 INFO: Min normalized x: 0.0
+2023-04-14 22:10:51 INFO: Max normalized x: 1.0
+2023-04-14 22:10:51 INFO: Min normalized y: 0.0
+2023-04-14 22:10:51 INFO: Max normalized y: 1.0
+2023-04-14 22:11:15 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:11:15 INFO: Number of points: 882
+2023-04-14 22:11:15 INFO: Number of cells: 400
+2023-04-14 22:11:15 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:11:15 INFO: Available data fields:
+2023-04-14 22:11:15 INFO: - U
+2023-04-14 22:11:15 INFO: Input parameters:
+2023-04-14 22:11:15 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:11:15 INFO: x_range: (0, 1)
+2023-04-14 22:11:15 INFO: y_range: (0, 1)
+2023-04-14 22:11:15 INFO: cmap: coolwarm
+2023-04-14 22:11:15 INFO: grids: on
+2023-04-14 22:11:15 INFO: normalization: on
+2023-04-14 22:11:15 INFO: 
+Velocity_x data statistics:
+2023-04-14 22:11:15 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:11:15 INFO: Max velocity_x: 1.0
+2023-04-14 22:11:15 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:11:15 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:11:15 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:11:15 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:11:15 INFO: 
+Normalized coordinates range:
+2023-04-14 22:11:15 INFO: Min normalized x: 0.0
+2023-04-14 22:11:15 INFO: Max normalized x: 1.0
+2023-04-14 22:11:15 INFO: Min normalized y: 0.0
+2023-04-14 22:11:15 INFO: Max normalized y: 1.0
+2023-04-14 22:13:04 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:13:04 INFO: Number of points: 882
+2023-04-14 22:13:04 INFO: Number of cells: 400
+2023-04-14 22:13:04 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:13:04 INFO: Available data fields:
+2023-04-14 22:13:04 INFO: - U
+2023-04-14 22:13:04 INFO: Input parameters:
+2023-04-14 22:13:04 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:13:04 INFO: x_range: (0, 1)
+2023-04-14 22:13:04 INFO: y_range: (0, 1)
+2023-04-14 22:13:04 INFO: cmap: coolwarm
+2023-04-14 22:13:04 INFO: grids: on
+2023-04-14 22:13:04 INFO: normalization: on
+2023-04-14 22:13:04 INFO: 
+Velocity_x data statistics:
+2023-04-14 22:13:04 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:13:04 INFO: Max velocity_x: 1.0
+2023-04-14 22:13:04 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:13:04 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:13:04 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:13:04 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:13:04 INFO: 
+Normalized coordinates range:
+2023-04-14 22:13:04 INFO: Min normalized x: 0.0
+2023-04-14 22:13:04 INFO: Max normalized x: 1.0
+2023-04-14 22:13:04 INFO: Min normalized y: 0.0
+2023-04-14 22:13:04 INFO: Max normalized y: 1.0
+2023-04-14 22:13:33 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:13:33 INFO: Number of points: 882
+2023-04-14 22:13:33 INFO: Number of cells: 400
+2023-04-14 22:13:33 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:13:33 INFO: Available data fields:
+2023-04-14 22:13:33 INFO: - U
+2023-04-14 22:13:33 INFO: Input parameters:
+2023-04-14 22:13:33 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:13:33 INFO: x_range: (0, 1)
+2023-04-14 22:13:33 INFO: y_range: (0, 1)
+2023-04-14 22:13:33 INFO: cmap: coolwarm
+2023-04-14 22:13:33 INFO: grids: on
+2023-04-14 22:13:33 INFO: normalization: on
+2023-04-14 22:13:33 INFO: 
+Velocity_x data statistics:
+2023-04-14 22:13:33 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:13:33 INFO: Max velocity_x: 1.0
+2023-04-14 22:13:33 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:13:33 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:13:33 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:13:33 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:13:33 INFO: 
+Normalized coordinates range:
+2023-04-14 22:13:33 INFO: Min normalized x: 0.0
+2023-04-14 22:13:33 INFO: Max normalized x: 1.0
+2023-04-14 22:13:33 INFO: Min normalized y: 0.0
+2023-04-14 22:13:33 INFO: Max normalized y: 1.0
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:15:46 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:15:46 INFO: Number of points: 882
+2023-04-14 22:15:46 INFO: Number of cells: 400
+2023-04-14 22:15:46 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:15:46 INFO: Available data fields:
+2023-04-14 22:15:46 INFO: - U
+2023-04-14 22:15:46 INFO: Input parameters:
+2023-04-14 22:15:46 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:15:46 INFO: x_range: (0, 1)
+2023-04-14 22:15:46 INFO: y_range: (0, 1)
+2023-04-14 22:15:46 INFO: cmap: coolwarm
+2023-04-14 22:15:46 INFO: grids: on
+2023-04-14 22:15:46 INFO: normalization: on
+2023-04-14 22:15:46 INFO: 
+Velocity_x data statistics:
+2023-04-14 22:15:46 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:15:46 INFO: Max velocity_x: 1.0
+2023-04-14 22:15:46 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:15:46 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:15:46 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:15:46 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:15:46 INFO: 
+Normalized coordinates range:
+2023-04-14 22:15:46 INFO: Min normalized x: 0.0
+2023-04-14 22:15:46 INFO: Max normalized x: 1.0
+2023-04-14 22:15:46 INFO: Min normalized y: 0.0
+2023-04-14 22:15:46 INFO: Max normalized y: 1.0
+2023-04-14 22:19:46 INFO: 
+number of sorted_cell
+2023-04-14 22:19:46 INFO: number of sorted_cell:{4}
+2023-04-14 22:19:46 INFO: 
+Basic information of VTK
+2023-04-14 22:19:46 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:19:46 INFO: Number of points: 882
+2023-04-14 22:19:46 INFO: Number of cells: 400
+2023-04-14 22:19:46 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:19:46 INFO: Available data fields:
+2023-04-14 22:19:46 INFO: - U
+2023-04-14 22:19:46 INFO: Input parameters:
+2023-04-14 22:19:46 INFO: x_range: (0, 1)
+2023-04-14 22:19:46 INFO: y_range: (0, 1)
+2023-04-14 22:19:46 INFO: cmap: coolwarm
+2023-04-14 22:19:46 INFO: grids: on
+2023-04-14 22:19:46 INFO: normalization: on
+2023-04-14 22:19:46 INFO: 
+Velocity_x data statistics:
+2023-04-14 22:19:46 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:19:46 INFO: Max velocity_x: 1.0
+2023-04-14 22:19:46 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:19:46 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:19:46 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:19:46 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:19:46 INFO: 
+Normalized coordinates range:
+2023-04-14 22:19:46 INFO: Min normalized x: 0.0
+2023-04-14 22:19:46 INFO: Max normalized x: 1.0
+2023-04-14 22:19:46 INFO: Min normalized y: 0.0
+2023-04-14 22:19:46 INFO: Max normalized y: 1.0
+2023-04-14 22:25:05 INFO: 
+number of sorted_cell
+2023-04-14 22:25:05 INFO: number of sorted_cell:{400}
+2023-04-14 22:25:05 INFO: 
+Basic information of VTK
+2023-04-14 22:25:05 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:25:05 INFO: Number of points: 882
+2023-04-14 22:25:05 INFO: Number of cells: 400
+2023-04-14 22:25:05 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:25:05 INFO: Available data fields:
+2023-04-14 22:25:05 INFO: - U
+2023-04-14 22:25:05 INFO: Input parameters:
+2023-04-14 22:25:05 INFO: x_range: (0, 1)
+2023-04-14 22:25:05 INFO: y_range: (0, 1)
+2023-04-14 22:25:05 INFO: cmap: coolwarm
+2023-04-14 22:25:05 INFO: grids: on
+2023-04-14 22:25:05 INFO: normalization: on
+2023-04-14 22:25:05 INFO: 
+Velocity_x data statistics:
+2023-04-14 22:25:05 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:25:05 INFO: Max velocity_x: 1.0
+2023-04-14 22:25:05 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:25:05 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:25:05 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:25:05 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:25:05 INFO: 
+Normalized coordinates range:
+2023-04-14 22:25:05 INFO: Min normalized x: 0.0
+2023-04-14 22:25:05 INFO: Max normalized x: 1.0
+2023-04-14 22:25:05 INFO: Min normalized y: 0.0
+2023-04-14 22:25:05 INFO: Max normalized y: 1.0
+2023-04-14 22:26:39 INFO: 
+number of sorted_cell
+2023-04-14 22:26:39 INFO: number of sorted_cell:{400}
+2023-04-14 22:26:39 INFO: 
+Basic information of VTK
+2023-04-14 22:26:39 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:26:39 INFO: Number of points: 882
+2023-04-14 22:26:39 INFO: Number of cells: 400
+2023-04-14 22:26:39 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:26:39 INFO: Available data fields:
+2023-04-14 22:26:39 INFO: - U
+2023-04-14 22:26:39 INFO: Input parameters:
+2023-04-14 22:26:39 INFO: x_range: (0, 1)
+2023-04-14 22:26:39 INFO: y_range: (0, 1)
+2023-04-14 22:26:39 INFO: cmap: coolwarm
+2023-04-14 22:26:39 INFO: grids: on
+2023-04-14 22:26:39 INFO: normalization: on
+2023-04-14 22:26:39 INFO: 
+Velocity_all data statistics:
+2023-04-14 22:26:39 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:26:39 INFO: Max velocity_x: 1.0
+2023-04-14 22:26:39 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:26:39 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:26:39 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:26:39 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:26:39 INFO: 
+Normalized coordinates range:
+2023-04-14 22:26:39 INFO: Min normalized x: 0.0
+2023-04-14 22:26:39 INFO: Max normalized x: 1.0
+2023-04-14 22:26:39 INFO: Min normalized y: 0.0
+2023-04-14 22:26:39 INFO: Max normalized y: 1.0
+2023-04-14 22:29:10 INFO: 
+number of sorted_cell
+2023-04-14 22:29:10 INFO: number of sorted_cell:{400}
+2023-04-14 22:29:10 INFO: 
+Basic information of VTK
+2023-04-14 22:29:10 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:29:10 INFO: Number of points: 882
+2023-04-14 22:29:10 INFO: Number of cells: 400
+2023-04-14 22:29:10 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:29:10 INFO: Available data fields:
+2023-04-14 22:29:10 INFO: - U
+2023-04-14 22:29:10 INFO: Input parameters:
+2023-04-14 22:29:10 INFO: x_range: (0, 1)
+2023-04-14 22:29:10 INFO: y_range: (0, 1)
+2023-04-14 22:29:10 INFO: cmap: coolwarm
+2023-04-14 22:29:10 INFO: grids: on
+2023-04-14 22:29:10 INFO: normalization: on
+2023-04-14 22:29:10 INFO: 
+Velocity_all data statistics:
+2023-04-14 22:29:10 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:29:10 INFO: Max velocity_x: 1.0
+2023-04-14 22:29:10 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:29:10 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:29:10 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:29:10 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:29:10 INFO: 
+Normalized coordinates range:
+2023-04-14 22:29:10 INFO: Min normalized x: 0.0
+2023-04-14 22:29:10 INFO: Max normalized x: 1.0
+2023-04-14 22:29:10 INFO: Min normalized y: 0.0
+2023-04-14 22:29:10 INFO: Max normalized y: 1.0
+2023-04-14 22:38:01 INFO: 
+Information about sort_xy_meshed
+2023-04-14 22:38:01 INFO: number of sorted_cell:{400}
+2023-04-14 22:38:01 INFO: number of trianglulated_cells:{2}
+2023-04-14 22:38:01 INFO: 
+Basic information of VTK
+2023-04-14 22:38:01 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:38:01 INFO: Number of points: 882
+2023-04-14 22:38:01 INFO: Number of cells: 400
+2023-04-14 22:38:01 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:38:01 INFO: Available data fields:
+2023-04-14 22:38:01 INFO: - U
+2023-04-14 22:38:01 INFO: Input parameters:
+2023-04-14 22:38:01 INFO: x_range: (0, 1)
+2023-04-14 22:38:01 INFO: y_range: (0, 1)
+2023-04-14 22:38:01 INFO: cmap: coolwarm
+2023-04-14 22:38:01 INFO: grids: on
+2023-04-14 22:38:01 INFO: normalization: on
+2023-04-14 22:38:01 INFO: 
+Velocity_all data statistics:
+2023-04-14 22:38:01 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:38:01 INFO: Max velocity_x: 1.0
+2023-04-14 22:38:01 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:38:01 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:38:01 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:38:01 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:38:01 INFO: 
+Normalized coordinates range:
+2023-04-14 22:38:01 INFO: Min normalized x: 0.0
+2023-04-14 22:38:01 INFO: Max normalized x: 1.0
+2023-04-14 22:38:01 INFO: Min normalized y: 0.0
+2023-04-14 22:38:01 INFO: Max normalized y: 1.0
+2023-04-14 22:51:22 INFO: 
+Information about sort_xy_meshed
+2023-04-14 22:51:22 INFO: number of sorted_cell:{400}
+2023-04-14 22:51:22 INFO: number of trianglulated_cells:{800}
+2023-04-14 22:51:22 INFO: 
+Basic information of VTK
+2023-04-14 22:51:22 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:51:22 INFO: Number of points: 882
+2023-04-14 22:51:22 INFO: Number of cells: 400
+2023-04-14 22:51:22 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:51:22 INFO: Available data fields:
+2023-04-14 22:51:22 INFO: - U
+2023-04-14 22:51:22 INFO: Input parameters:
+2023-04-14 22:51:22 INFO: x_range: (0, 1)
+2023-04-14 22:51:22 INFO: y_range: (0, 1)
+2023-04-14 22:51:22 INFO: cmap: coolwarm
+2023-04-14 22:51:22 INFO: grids: on
+2023-04-14 22:51:22 INFO: normalization: on
+2023-04-14 22:51:22 INFO: 
+Velocity_all data statistics:
+2023-04-14 22:51:22 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:51:22 INFO: Max velocity_x: 1.0
+2023-04-14 22:51:22 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:51:22 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:51:22 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:51:22 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:51:22 INFO: 
+Normalized coordinates range:
+2023-04-14 22:51:22 INFO: Min normalized x: 0.0
+2023-04-14 22:51:22 INFO: Max normalized x: 1.0
+2023-04-14 22:51:22 INFO: Min normalized y: 0.0
+2023-04-14 22:51:22 INFO: Max normalized y: 1.0
+2023-04-14 22:52:28 INFO: 
+Information about sort_xy_meshed
+2023-04-14 22:52:28 INFO: number of sorted_cell:{400}
+2023-04-14 22:52:28 INFO: number of trianglulated_cells:{800}
+2023-04-14 22:52:28 INFO: 
+Basic information of VTK
+2023-04-14 22:52:28 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/cavity/cavity/VTK/cavity_100.vtk
+2023-04-14 22:52:28 INFO: Number of points: 882
+2023-04-14 22:52:28 INFO: Number of cells: 400
+2023-04-14 22:52:28 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:52:28 INFO: Available data fields:
+2023-04-14 22:52:28 INFO: - U
+2023-04-14 22:52:28 INFO: Input parameters:
+2023-04-14 22:52:28 INFO: x_range: (0, 1)
+2023-04-14 22:52:28 INFO: y_range: (0, 1)
+2023-04-14 22:52:28 INFO: cmap: coolwarm
+2023-04-14 22:52:28 INFO: grids: on
+2023-04-14 22:52:28 INFO: normalization: on
+2023-04-14 22:52:28 INFO: 
+Velocity_all data statistics:
+2023-04-14 22:52:28 INFO: Min velocity_x: -0.20070025
+2023-04-14 22:52:28 INFO: Max velocity_x: 1.0
+2023-04-14 22:52:28 INFO: Mean velocity_x: 0.030602258
+2023-04-14 22:52:28 INFO: Min velocity_x: -0.35112524
+2023-04-14 22:52:28 INFO: Max velocity_x: 0.32135126
+2023-04-14 22:52:28 INFO: Mean velocity_x: 0.00017582018
+2023-04-14 22:52:28 INFO: 
+Normalized coordinates range:
+2023-04-14 22:52:28 INFO: Min normalized x: 0.0
+2023-04-14 22:52:28 INFO: Max normalized x: 1.0
+2023-04-14 22:52:28 INFO: Min normalized y: 0.0
+2023-04-14 22:52:28 INFO: Max normalized y: 1.0
+2023-04-14 22:54:55 INFO: 
+Information about sort_xy_meshed
+2023-04-14 22:54:55 INFO: number of sorted_cell:{12225}
+2023-04-14 22:54:55 INFO: number of trianglulated_cells:{0}
+2023-04-14 22:54:55 INFO: 
+Basic information of VTK
+2023-04-14 22:54:55 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 22:54:55 INFO: Number of points: 25012
+2023-04-14 22:54:55 INFO: Number of cells: 12225
+2023-04-14 22:54:55 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:54:55 INFO: Available data fields:
+2023-04-14 22:54:55 INFO: - p
+2023-04-14 22:54:55 INFO: - U
+2023-04-14 22:54:55 INFO: Input parameters:
+2023-04-14 22:54:55 INFO: x_range: (0, 1)
+2023-04-14 22:54:55 INFO: y_range: (0, 1)
+2023-04-14 22:54:55 INFO: cmap: coolwarm
+2023-04-14 22:54:55 INFO: grids: on
+2023-04-14 22:54:55 INFO: normalization: on
+2023-04-14 22:54:55 INFO: 
+Velocity_all data statistics:
+2023-04-14 22:54:55 INFO: Min velocity_x: -2.5150898
+2023-04-14 22:54:55 INFO: Max velocity_x: 10.195104
+2023-04-14 22:54:55 INFO: Mean velocity_x: 5.353529
+2023-04-14 22:54:55 INFO: Min velocity_x: -0.67796654
+2023-04-14 22:54:55 INFO: Max velocity_x: 0.6547807
+2023-04-14 22:54:55 INFO: Mean velocity_x: -0.12784423
+2023-04-14 22:54:55 INFO: 
+Normalized coordinates range:
+2023-04-14 22:54:55 INFO: Min normalized x: 0.0
+2023-04-14 22:54:55 INFO: Max normalized x: 1.0
+2023-04-14 22:54:55 INFO: Min normalized y: 0.0
+2023-04-14 22:54:55 INFO: Max normalized y: 1.0
+2023-04-14 22:55:18 INFO: 
+Information about sort_xy_meshed
+2023-04-14 22:55:18 INFO: number of sorted_cell:{12225}
+2023-04-14 22:55:18 INFO: number of trianglulated_cells:{0}
+2023-04-14 22:55:18 INFO: 
+Basic information of VTK
+2023-04-14 22:55:18 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 22:55:18 INFO: Number of points: 25012
+2023-04-14 22:55:18 INFO: Number of cells: 12225
+2023-04-14 22:55:18 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:55:18 INFO: Available data fields:
+2023-04-14 22:55:18 INFO: - p
+2023-04-14 22:55:18 INFO: - U
+2023-04-14 22:55:18 INFO: Input parameters:
+2023-04-14 22:55:18 INFO: x_range: (0, 1)
+2023-04-14 22:55:18 INFO: y_range: (0, 1)
+2023-04-14 22:55:18 INFO: cmap: coolwarm
+2023-04-14 22:55:18 INFO: grids: on
+2023-04-14 22:55:18 INFO: normalization: on
+2023-04-14 22:55:18 INFO: 
+Velocity_all data statistics:
+2023-04-14 22:55:18 INFO: Min velocity_x: -2.5150898
+2023-04-14 22:55:18 INFO: Max velocity_x: 10.195104
+2023-04-14 22:55:18 INFO: Mean velocity_x: 5.353529
+2023-04-14 22:55:18 INFO: Min velocity_x: -0.67796654
+2023-04-14 22:55:18 INFO: Max velocity_x: 0.6547807
+2023-04-14 22:55:18 INFO: Mean velocity_x: -0.12784423
+2023-04-14 22:55:18 INFO: 
+Normalized coordinates range:
+2023-04-14 22:55:18 INFO: Min normalized x: 0.0
+2023-04-14 22:55:18 INFO: Max normalized x: 1.0
+2023-04-14 22:55:18 INFO: Min normalized y: 0.0
+2023-04-14 22:55:18 INFO: Max normalized y: 1.0
+2023-04-14 22:56:26 INFO: 
+Information about sort_xy_meshed
+2023-04-14 22:56:26 INFO: number of sorted_cell:{12225}
+2023-04-14 22:56:26 INFO: number of trianglulated_cells:{0}
+2023-04-14 22:56:26 INFO: 
+Basic information of VTK
+2023-04-14 22:56:26 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 22:56:26 INFO: Number of points: 25012
+2023-04-14 22:56:26 INFO: Number of cells: 12225
+2023-04-14 22:56:26 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:56:26 INFO: Available data fields:
+2023-04-14 22:56:26 INFO: - p
+2023-04-14 22:56:26 INFO: - U
+2023-04-14 22:56:26 INFO: Input parameters:
+2023-04-14 22:56:26 INFO: x_range: (0, 1)
+2023-04-14 22:56:26 INFO: y_range: (0, 1)
+2023-04-14 22:56:26 INFO: cmap: coolwarm
+2023-04-14 22:56:26 INFO: grids: on
+2023-04-14 22:56:26 INFO: normalization: on
+2023-04-14 22:56:26 INFO: 
+Velocity_all data statistics:
+2023-04-14 22:56:26 INFO: Min velocity_x: -2.5150898
+2023-04-14 22:56:26 INFO: Max velocity_x: 10.195104
+2023-04-14 22:56:26 INFO: Mean velocity_x: 5.353529
+2023-04-14 22:56:26 INFO: Min velocity_x: -0.67796654
+2023-04-14 22:56:26 INFO: Max velocity_x: 0.6547807
+2023-04-14 22:56:26 INFO: Mean velocity_x: -0.12784423
+2023-04-14 22:56:26 INFO: 
+Normalized coordinates range:
+2023-04-14 22:56:26 INFO: Min normalized x: 0.0
+2023-04-14 22:56:26 INFO: Max normalized x: 1.0
+2023-04-14 22:56:26 INFO: Min normalized y: 0.0
+2023-04-14 22:56:26 INFO: Max normalized y: 1.0
+2023-04-14 22:57:44 INFO: 
+z_value of cross section
+2023-04-14 22:57:44 INFO: the z_value of cross section:{0.0005}:
+2023-04-14 22:57:44 INFO: 
+Information about sort_xy_meshed
+2023-04-14 22:57:44 INFO: number of sorted_cell:{12225}
+2023-04-14 22:57:44 INFO: number of trianglulated_cells:{0}
+2023-04-14 22:57:44 INFO: 
+Basic information of VTK
+2023-04-14 22:57:44 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 22:57:44 INFO: Number of points: 25012
+2023-04-14 22:57:44 INFO: Number of cells: 12225
+2023-04-14 22:57:44 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 22:57:44 INFO: Available data fields:
+2023-04-14 22:57:44 INFO: - p
+2023-04-14 22:57:44 INFO: - U
+2023-04-14 22:57:44 INFO: Input parameters:
+2023-04-14 22:57:44 INFO: x_range: (0, 1)
+2023-04-14 22:57:44 INFO: y_range: (0, 1)
+2023-04-14 22:57:44 INFO: cmap: coolwarm
+2023-04-14 22:57:44 INFO: grids: on
+2023-04-14 22:57:44 INFO: normalization: on
+2023-04-14 22:57:44 INFO: 
+Velocity_all data statistics:
+2023-04-14 22:57:44 INFO: Min velocity_x: -2.5150898
+2023-04-14 22:57:44 INFO: Max velocity_x: 10.195104
+2023-04-14 22:57:44 INFO: Mean velocity_x: 5.353529
+2023-04-14 22:57:44 INFO: Min velocity_x: -0.67796654
+2023-04-14 22:57:44 INFO: Max velocity_x: 0.6547807
+2023-04-14 22:57:44 INFO: Mean velocity_x: -0.12784423
+2023-04-14 22:57:44 INFO: 
+Normalized coordinates range:
+2023-04-14 22:57:44 INFO: Min normalized x: 0.0
+2023-04-14 22:57:44 INFO: Max normalized x: 1.0
+2023-04-14 22:57:44 INFO: Min normalized y: 0.0
+2023-04-14 22:57:44 INFO: Max normalized y: 1.0
+2023-04-14 23:01:04 INFO: 
+z_value of cross section
+2023-04-14 23:01:04 INFO: the z_value of cross section:{0.0005}:
+2023-04-14 23:01:05 INFO: 
+Information about sort_xy_meshed
+2023-04-14 23:01:05 INFO: number of cells in tmp:{8}
+2023-04-14 23:01:05 INFO: number of sorted_cell:{12225}
+2023-04-14 23:01:05 INFO: number of trianglulated_cells:{0}
+2023-04-14 23:01:05 INFO: 
+Basic information of VTK
+2023-04-14 23:01:05 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:01:05 INFO: Number of points: 25012
+2023-04-14 23:01:05 INFO: Number of cells: 12225
+2023-04-14 23:01:05 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 23:01:05 INFO: Available data fields:
+2023-04-14 23:01:05 INFO: - p
+2023-04-14 23:01:05 INFO: - U
+2023-04-14 23:01:05 INFO: Input parameters:
+2023-04-14 23:01:05 INFO: x_range: (0, 1)
+2023-04-14 23:01:05 INFO: y_range: (0, 1)
+2023-04-14 23:01:05 INFO: cmap: coolwarm
+2023-04-14 23:01:05 INFO: grids: on
+2023-04-14 23:01:05 INFO: normalization: on
+2023-04-14 23:01:05 INFO: 
+Velocity_all data statistics:
+2023-04-14 23:01:05 INFO: Min velocity_x: -2.5150898
+2023-04-14 23:01:05 INFO: Max velocity_x: 10.195104
+2023-04-14 23:01:05 INFO: Mean velocity_x: 5.353529
+2023-04-14 23:01:05 INFO: Min velocity_x: -0.67796654
+2023-04-14 23:01:05 INFO: Max velocity_x: 0.6547807
+2023-04-14 23:01:05 INFO: Mean velocity_x: -0.12784423
+2023-04-14 23:01:05 INFO: 
+Normalized coordinates range:
+2023-04-14 23:01:05 INFO: Min normalized x: 0.0
+2023-04-14 23:01:05 INFO: Max normalized x: 1.0
+2023-04-14 23:01:05 INFO: Min normalized y: 0.0
+2023-04-14 23:01:05 INFO: Max normalized y: 1.0
+2023-04-14 23:01:54 INFO: 
+z_value of cross section
+2023-04-14 23:01:54 INFO: the z_value of cross section:{0.0005}:
+2023-04-14 23:01:54 INFO: 
+Information about sort_xy_meshed
+2023-04-14 23:01:54 INFO: number of cells in tmp:{4}
+2023-04-14 23:01:54 INFO: number of sorted_cell:{12225}
+2023-04-14 23:01:54 INFO: number of trianglulated_cells:{24450}
+2023-04-14 23:01:54 INFO: 
+Basic information of VTK
+2023-04-14 23:01:54 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:01:54 INFO: Number of points: 25012
+2023-04-14 23:01:54 INFO: Number of cells: 12225
+2023-04-14 23:01:54 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 23:01:54 INFO: Available data fields:
+2023-04-14 23:01:54 INFO: - p
+2023-04-14 23:01:54 INFO: - U
+2023-04-14 23:01:54 INFO: Input parameters:
+2023-04-14 23:01:54 INFO: x_range: (0, 1)
+2023-04-14 23:01:54 INFO: y_range: (0, 1)
+2023-04-14 23:01:54 INFO: cmap: coolwarm
+2023-04-14 23:01:54 INFO: grids: on
+2023-04-14 23:01:54 INFO: normalization: on
+2023-04-14 23:01:54 INFO: 
+Velocity_all data statistics:
+2023-04-14 23:01:54 INFO: Min velocity_x: -2.5150898
+2023-04-14 23:01:54 INFO: Max velocity_x: 10.195104
+2023-04-14 23:01:54 INFO: Mean velocity_x: 5.353529
+2023-04-14 23:01:54 INFO: Min velocity_x: -0.67796654
+2023-04-14 23:01:54 INFO: Max velocity_x: 0.6547807
+2023-04-14 23:01:54 INFO: Mean velocity_x: -0.12784423
+2023-04-14 23:01:54 INFO: 
+Normalized coordinates range:
+2023-04-14 23:01:54 INFO: Min normalized x: 0.0
+2023-04-14 23:01:54 INFO: Max normalized x: 1.0
+2023-04-14 23:01:54 INFO: Min normalized y: 0.0
+2023-04-14 23:01:54 INFO: Max normalized y: 1.0
+2023-04-14 23:07:57 INFO: 
+Information about sort_xy_meshed
+2023-04-14 23:07:57 INFO: number of cells in tmp:{4}
+2023-04-14 23:07:57 INFO: number of sorted_cell:{12225}
+2023-04-14 23:07:57 INFO: number of trianglulated_cells:{24450}
+2023-04-14 23:07:57 INFO: 
+Basic information of VTK
+2023-04-14 23:07:57 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:07:57 INFO: Number of points: 25012
+2023-04-14 23:07:57 INFO: Number of cells: 12225
+2023-04-14 23:07:57 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 23:07:57 INFO: Available data fields:
+2023-04-14 23:07:57 INFO: - p
+2023-04-14 23:07:57 INFO: - U
+2023-04-14 23:07:57 INFO: Input parameters:
+2023-04-14 23:07:57 INFO: x_range: (0, 1)
+2023-04-14 23:07:57 INFO: y_range: (0, 1)
+2023-04-14 23:07:57 INFO: cmap: coolwarm
+2023-04-14 23:07:57 INFO: grids: on
+2023-04-14 23:07:57 INFO: normalization: on
+2023-04-14 23:07:57 INFO: 
+Velocity_all data statistics:
+2023-04-14 23:07:57 INFO: Min velocity_x: -2.5150898
+2023-04-14 23:07:57 INFO: Max velocity_x: 10.195104
+2023-04-14 23:07:57 INFO: Mean velocity_x: 5.353529
+2023-04-14 23:07:57 INFO: Min velocity_x: -0.67796654
+2023-04-14 23:07:57 INFO: Max velocity_x: 0.6547807
+2023-04-14 23:07:57 INFO: Mean velocity_x: -0.12784423
+2023-04-14 23:07:57 INFO: 
+Normalized coordinates range:
+2023-04-14 23:07:57 INFO: Min normalized x: 0.0
+2023-04-14 23:07:57 INFO: Max normalized x: 1.0
+2023-04-14 23:07:57 INFO: Min normalized y: 0.0
+2023-04-14 23:07:57 INFO: Max normalized y: 1.0
+2023-04-14 23:08:46 INFO: 
+Information about sort_xy_meshed
+2023-04-14 23:08:46 INFO: number of cells in tmp:{4}
+2023-04-14 23:08:46 INFO: number of sorted_cell:{12225}
+2023-04-14 23:08:46 INFO: number of trianglulated_cells:{24450}
+2023-04-14 23:08:46 INFO: 
+Basic information of VTK
+2023-04-14 23:08:46 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:08:46 INFO: Number of points: 25012
+2023-04-14 23:08:46 INFO: Number of cells: 12225
+2023-04-14 23:08:46 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 23:08:46 INFO: Available data fields:
+2023-04-14 23:08:46 INFO: - p
+2023-04-14 23:08:46 INFO: - U
+2023-04-14 23:08:46 INFO: Input parameters:
+2023-04-14 23:08:46 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:08:46 INFO: x_range: (0, 1)
+2023-04-14 23:08:46 INFO: y_range: (0, 1)
+2023-04-14 23:08:46 INFO: cmap: coolwarm
+2023-04-14 23:08:46 INFO: grids: on
+2023-04-14 23:08:46 INFO: normalization: on
+2023-04-14 23:08:46 INFO: 
+Pressure data statistics:
+2023-04-14 23:08:46 INFO: Min pressure magnitude: -7.959215
+2023-04-14 23:08:46 INFO: Max pressure magnitude: 14.292472
+2023-04-14 23:08:46 INFO: Mean pressure magnitude: -1.2090238
+2023-04-14 23:08:46 INFO: 
+Normalized coordinates range:
+2023-04-14 23:08:46 INFO: Min normalized x: 0.0
+2023-04-14 23:08:46 INFO: Max normalized x: 1.0
+2023-04-14 23:08:46 INFO: Min normalized y: 0.0
+2023-04-14 23:08:46 INFO: Max normalized y: 1.0
+2023-04-14 23:09:41 INFO: 
+Information about sort_xy_meshed
+2023-04-14 23:09:41 INFO: number of cells in tmp:{4}
+2023-04-14 23:09:41 INFO: number of sorted_cell:{12225}
+2023-04-14 23:09:41 INFO: number of trianglulated_cells:{24450}
+2023-04-14 23:09:41 INFO: 
+Basic information of VTK
+2023-04-14 23:09:41 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:09:41 INFO: Number of points: 25012
+2023-04-14 23:09:41 INFO: Number of cells: 12225
+2023-04-14 23:09:41 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 23:09:41 INFO: Available data fields:
+2023-04-14 23:09:41 INFO: - p
+2023-04-14 23:09:41 INFO: - U
+2023-04-14 23:09:41 INFO: Input parameters:
+2023-04-14 23:09:41 INFO: x_range: (0, 1)
+2023-04-14 23:09:41 INFO: y_range: (0, 1)
+2023-04-14 23:09:41 INFO: cmap: coolwarm
+2023-04-14 23:09:41 INFO: grids: on
+2023-04-14 23:09:41 INFO: normalization: on
+2023-04-14 23:09:41 INFO: 
+Velocity_all data statistics:
+2023-04-14 23:09:41 INFO: Min velocity_x: -2.5150898
+2023-04-14 23:09:41 INFO: Max velocity_x: 10.195104
+2023-04-14 23:09:41 INFO: Mean velocity_x: 5.353529
+2023-04-14 23:09:41 INFO: Min velocity_x: -0.67796654
+2023-04-14 23:09:41 INFO: Max velocity_x: 0.6547807
+2023-04-14 23:09:41 INFO: Mean velocity_x: -0.12784423
+2023-04-14 23:09:41 INFO: 
+Normalized coordinates range:
+2023-04-14 23:09:41 INFO: Min normalized x: 0.0
+2023-04-14 23:09:41 INFO: Max normalized x: 1.0
+2023-04-14 23:09:41 INFO: Min normalized y: 0.0
+2023-04-14 23:09:41 INFO: Max normalized y: 1.0
+2023-04-14 23:10:11 INFO: 
+Information about sort_xy_meshed
+2023-04-14 23:10:11 INFO: number of cells in tmp:{4}
+2023-04-14 23:10:11 INFO: number of sorted_cell:{12225}
+2023-04-14 23:10:11 INFO: number of trianglulated_cells:{24450}
+2023-04-14 23:10:11 INFO: 
+Basic information of VTK
+2023-04-14 23:10:11 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:10:11 INFO: Number of points: 25012
+2023-04-14 23:10:11 INFO: Number of cells: 12225
+2023-04-14 23:10:11 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 23:10:11 INFO: Available data fields:
+2023-04-14 23:10:11 INFO: - p
+2023-04-14 23:10:11 INFO: - U
+2023-04-14 23:10:11 INFO: Input parameters:
+2023-04-14 23:10:11 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:10:11 INFO: x_range: (0, 1)
+2023-04-14 23:10:11 INFO: y_range: (0, 1)
+2023-04-14 23:10:11 INFO: cmap: coolwarm
+2023-04-14 23:10:11 INFO: grids: off
+2023-04-14 23:10:11 INFO: normalization: on
+2023-04-14 23:10:51 INFO: 
+Information about sort_xy_meshed
+2023-04-14 23:10:51 INFO: number of cells in tmp:{4}
+2023-04-14 23:10:51 INFO: number of sorted_cell:{12225}
+2023-04-14 23:10:51 INFO: number of trianglulated_cells:{24450}
+2023-04-14 23:10:51 INFO: 
+Basic information of VTK
+2023-04-14 23:10:51 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:10:51 INFO: Number of points: 25012
+2023-04-14 23:10:51 INFO: Number of cells: 12225
+2023-04-14 23:10:51 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 23:10:51 INFO: Available data fields:
+2023-04-14 23:10:51 INFO: - p
+2023-04-14 23:10:51 INFO: - U
+2023-04-14 23:10:51 INFO: Input parameters:
+2023-04-14 23:10:51 INFO: x_range: (0, 1)
+2023-04-14 23:10:51 INFO: y_range: (0, 1)
+2023-04-14 23:10:51 INFO: cmap: coolwarm
+2023-04-14 23:10:51 INFO: grids: off
+2023-04-14 23:10:51 INFO: normalization: on
+2023-04-14 23:10:51 INFO: 
+Velocity_all data statistics:
+2023-04-14 23:10:51 INFO: Min velocity_x: -2.5150898
+2023-04-14 23:10:51 INFO: Max velocity_x: 10.195104
+2023-04-14 23:10:51 INFO: Mean velocity_x: 5.353529
+2023-04-14 23:10:51 INFO: Min velocity_x: -0.67796654
+2023-04-14 23:10:51 INFO: Max velocity_x: 0.6547807
+2023-04-14 23:10:51 INFO: Mean velocity_x: -0.12784423
+2023-04-14 23:10:51 INFO: 
+Normalized coordinates range:
+2023-04-14 23:10:51 INFO: Min normalized x: 0.0
+2023-04-14 23:10:51 INFO: Max normalized x: 1.0
+2023-04-14 23:10:51 INFO: Min normalized y: 0.0
+2023-04-14 23:10:51 INFO: Max normalized y: 1.0
+2023-04-14 23:11:29 INFO: 
+Information about sort_xy_meshed
+2023-04-14 23:11:29 INFO: number of cells in tmp:{4}
+2023-04-14 23:11:29 INFO: number of sorted_cell:{12225}
+2023-04-14 23:11:29 INFO: number of trianglulated_cells:{24450}
+2023-04-14 23:11:29 INFO: 
+Basic information of VTK
+2023-04-14 23:11:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:11:29 INFO: Number of points: 25012
+2023-04-14 23:11:29 INFO: Number of cells: 12225
+2023-04-14 23:11:29 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-14 23:11:29 INFO: Available data fields:
+2023-04-14 23:11:29 INFO: - p
+2023-04-14 23:11:29 INFO: - U
+2023-04-14 23:11:29 INFO: Input parameters:
+2023-04-14 23:11:29 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-14 23:11:29 INFO: x_range: (0, 1)
+2023-04-14 23:11:29 INFO: y_range: (0, 1)
+2023-04-14 23:11:29 INFO: cmap: coolwarm
+2023-04-14 23:11:29 INFO: grids: on
+2023-04-14 23:11:29 INFO: normalization: on

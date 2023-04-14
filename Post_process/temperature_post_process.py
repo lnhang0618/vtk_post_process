@@ -7,8 +7,7 @@ Created on April 11th 2023
 import logging
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy import interpolate
-from matplotlib import cm
+import matplotlib.tri as tri
 from .post_process_base import PostProcessBase
 
 logging.basicConfig(filename='post_process.log', level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
@@ -55,9 +54,13 @@ class Temperature_Post_Process(PostProcessBase):
         
         # 创建一个新的图形和一个轴对象
         fig, ax = plt.subplots()
+        
+        # 创建一个Triangulation对象
+        triangulation = tri.Triangulation(self.x, self.y, self.triangulated_cells)
+    
 
         # 使用三角剖分方法绘制填充的等高线图
-        contour = ax.tricontourf(self.x,self.y, self.T, cmap=self.cmap,levels=12)
+        contour = ax.tricontourf(triangulation, self.T, cmap=self.cmap,levels=12)
         
         #绘制计算网格
         if self.meshes == 'on':
