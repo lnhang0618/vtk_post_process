@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 logging.basicConfig(filename='post_process.log', level=logging.INFO, format='%(asctime)s %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
 class PostProcessBase:
-    def __init__(self, vtk_file,axis_map=None):
+    def __init__(self, vtk_file,axis_map=None,**kwargs):
         self.vtk_file = vtk_file
         
         if axis_map is None:
@@ -19,6 +19,7 @@ class PostProcessBase:
     
         self._read_vtk_file()
         self.print_info()
+        self.z_value = kwargs.get('z_value', None)
     
     #读取VTK文件
     def _read_vtk_file(self):
@@ -81,13 +82,15 @@ class PostProcessBase:
     
     #提取xy平面网格
     def get_xy_cells(self):
+        if self.z_value == None:
+            self.z_value = np.max(self.z)
+            logging.info('thez_value of cross section:%s:',{self.z_value})
+        
         cell_points_ids=self.get_cell_points_ids()
         xy_cells=[]
         
-        tolerance = 0
-        
         for cell in cell_points_ids:
-            filtered_cell = [vertex_id for vertex_id in cell if abs(self.z[vertex_id]) == tolerance]
+            filtered_cell = [vertex_id for vertex_id in cell if abs(self.z[vertex_id]) == self.z_value]
             xy_cells.append(filtered_cell)
         
         return xy_cells
@@ -109,7 +112,7 @@ class PostProcessBase:
                 point2 = sorted_cell[(i + 1) % len(sorted_cell)]
                 x_coords = [self.x[point1], self.x[point2]]
                 y_coords = [self.y[point1], self.y[point2]]
-                ax.plot(x_coords, y_coords, 'k-', linewidth=0.5)
+                ax.plot(x_coords, y_coords, 'k-', linewidth=0.3)
 
     
     #statistics
