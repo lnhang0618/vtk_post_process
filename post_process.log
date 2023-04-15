@@ -6367,3 +6367,123 @@ Normalized coordinates range:
 2023-04-15 17:03:10 INFO: Max normalized x: 1.0
 2023-04-15 17:03:10 INFO: Min normalized y: 0.0
 2023-04-15 17:03:10 INFO: Max normalized y: 1.0
+2023-04-15 17:41:46 INFO: 
+ Information of get_cell_points_ids
+2023-04-15 17:41:46 INFO: number of cell_points_ids :{12225}
+2023-04-15 17:41:46 INFO: 
+Information of get_xy_cells
+2023-04-15 17:41:46 INFO: number of xy_cells :{12225}
+2023-04-15 17:41:47 INFO: 
+Information about sort_xy_meshed
+2023-04-15 17:41:47 INFO: number of cells in tmp:{4}
+2023-04-15 17:41:47 INFO: number of sorted_cell:{12225}
+2023-04-15 17:41:47 INFO: number of trianglulated_cells:{24450}
+2023-04-15 17:41:47 INFO: 
+Basic information of VTK
+2023-04-15 17:41:47 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-15 17:41:47 INFO: Number of points: 25012
+2023-04-15 17:41:47 INFO: Number of cells: 12225
+2023-04-15 17:41:47 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-15 17:41:47 INFO: Available data fields:
+2023-04-15 17:41:47 INFO: - p
+2023-04-15 17:41:47 INFO: - U
+2023-04-15 17:41:47 INFO: Input parameters:
+2023-04-15 17:41:47 INFO: x_range: (0.4, 0.6)
+2023-04-15 17:41:47 INFO: y_range: (0.4, 0.6)
+2023-04-15 17:41:47 INFO: cmap: coolwarm
+2023-04-15 17:41:47 INFO: grids: off
+2023-04-15 17:41:47 INFO: normalization: on
+2023-04-15 17:41:47 INFO: 
+Velocity_all data statistics:
+2023-04-15 17:41:47 INFO: Min velocity_x: -2.5150898
+2023-04-15 17:41:47 INFO: Max velocity_x: 10.195104
+2023-04-15 17:41:47 INFO: Mean velocity_x: 5.353529
+2023-04-15 17:41:47 INFO: Min velocity_x: -0.67796654
+2023-04-15 17:41:47 INFO: Max velocity_x: 0.6547807
+2023-04-15 17:41:47 INFO: Mean velocity_x: -0.12784423
+2023-04-15 17:41:47 INFO: 
+Normalized coordinates range:
+2023-04-15 17:41:47 INFO: Min normalized x: 0.0
+2023-04-15 17:41:47 INFO: Max normalized x: 1.0
+2023-04-15 17:41:47 INFO: Min normalized y: 0.0
+2023-04-15 17:41:47 INFO: Max normalized y: 1.0
+2023-04-15 17:42:12 INFO: 
+ Information of get_cell_points_ids
+2023-04-15 17:42:12 INFO: number of cell_points_ids :{12225}
+2023-04-15 17:42:12 INFO: 
+Information of get_xy_cells
+2023-04-15 17:42:12 INFO: number of xy_cells :{12225}
+2023-04-15 17:42:12 INFO: 
+Information about sort_xy_meshed
+2023-04-15 17:42:12 INFO: number of cells in tmp:{4}
+2023-04-15 17:42:12 INFO: number of sorted_cell:{12225}
+2023-04-15 17:42:12 INFO: number of trianglulated_cells:{24450}
+2023-04-15 17:42:12 INFO: 
+Basic information of VTK
+2023-04-15 17:42:12 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-15 17:42:12 INFO: Number of points: 25012
+2023-04-15 17:42:12 INFO: Number of cells: 12225
+2023-04-15 17:42:12 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-15 17:42:12 INFO: Available data fields:
+2023-04-15 17:42:12 INFO: - p
+2023-04-15 17:42:12 INFO: - U
+2023-04-15 17:42:12 INFO: Input parameters:
+2023-04-15 17:42:12 INFO: x_range: (0, 1)
+2023-04-15 17:42:12 INFO: y_range: (0, 1)
+2023-04-15 17:42:12 INFO: cmap: coolwarm
+2023-04-15 17:42:12 INFO: grids: off
+2023-04-15 17:42:12 INFO: normalization: on
+2023-04-15 17:42:12 INFO: 
+Velocity_all data statistics:
+2023-04-15 17:42:12 INFO: Min velocity_x: -2.5150898
+2023-04-15 17:42:12 INFO: Max velocity_x: 10.195104
+2023-04-15 17:42:12 INFO: Mean velocity_x: 5.353529
+2023-04-15 17:42:12 INFO: Min velocity_x: -0.67796654
+2023-04-15 17:42:12 INFO: Max velocity_x: 0.6547807
+2023-04-15 17:42:12 INFO: Mean velocity_x: -0.12784423
+2023-04-15 17:42:12 INFO: 
+Normalized coordinates range:
+2023-04-15 17:42:12 INFO: Min normalized x: 0.0
+2023-04-15 17:42:12 INFO: Max normalized x: 1.0
+2023-04-15 17:42:12 INFO: Min normalized y: 0.0
+2023-04-15 17:42:12 INFO: Max normalized y: 1.0
+2023-04-15 18:17:44 INFO: 
+ Information of get_cell_points_ids
+2023-04-15 18:17:44 INFO: number of cell_points_ids :{12225}
+2023-04-15 18:17:44 INFO: 
+Information of get_xy_cells
+2023-04-15 18:17:44 INFO: number of xy_cells :{12225}
+2023-04-15 18:17:44 INFO: 
+Information about sort_xy_meshed
+2023-04-15 18:17:44 INFO: number of cells in tmp:{4}
+2023-04-15 18:17:44 INFO: number of sorted_cell:{12225}
+2023-04-15 18:17:44 INFO: number of trianglulated_cells:{24450}
+2023-04-15 18:17:44 INFO: 
+Basic information of VTK
+2023-04-15 18:17:44 INFO: VTK file: /home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk
+2023-04-15 18:17:44 INFO: Number of points: 25012
+2023-04-15 18:17:44 INFO: Number of cells: 12225
+2023-04-15 18:17:44 INFO: axis_map:{'x': 0, 'y': 1, 'z': 2}
+2023-04-15 18:17:44 INFO: Available data fields:
+2023-04-15 18:17:44 INFO: - p
+2023-04-15 18:17:44 INFO: - U
+2023-04-15 18:17:44 INFO: Input parameters:
+2023-04-15 18:17:44 INFO: x_range: (0, 1)
+2023-04-15 18:17:44 INFO: y_range: (0, 1)
+2023-04-15 18:17:44 INFO: cmap: coolwarm
+2023-04-15 18:17:44 INFO: grids: off
+2023-04-15 18:17:44 INFO: normalization: on
+2023-04-15 18:17:44 INFO: 
+Velocity_all data statistics:
+2023-04-15 18:17:44 INFO: Min velocity_x: -2.5150898
+2023-04-15 18:17:44 INFO: Max velocity_x: 10.195104
+2023-04-15 18:17:44 INFO: Mean velocity_x: 5.353529
+2023-04-15 18:17:44 INFO: Min velocity_x: -0.67796654
+2023-04-15 18:17:44 INFO: Max velocity_x: 0.6547807
+2023-04-15 18:17:44 INFO: Mean velocity_x: -0.12784423
+2023-04-15 18:17:44 INFO: 
+Normalized coordinates range:
+2023-04-15 18:17:44 INFO: Min normalized x: 0.0
+2023-04-15 18:17:44 INFO: Max normalized x: 1.0
+2023-04-15 18:17:44 INFO: Min normalized y: 0.0
+2023-04-15 18:17:44 INFO: Max normalized y: 1.0

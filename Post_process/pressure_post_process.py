@@ -42,10 +42,7 @@ class Pressure_Post_Process(PostProcessBase):
         
         #归一化输入坐标
         if self.normalization =='on':
-            super().normalization()
-            
-    def _draw_grid_lines(self):
-        cell_points_ids = self.get_cell_points_ids()        
+            super().normalization()       
     
     def plot_pressure_contour(self):
         

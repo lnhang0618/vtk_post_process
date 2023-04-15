@@ -19,8 +19,8 @@ class Choice(Enum):
 
 params = {
     'vtk_file': '/home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk',
-    'x_range': (0.4, 0.6),
-    'y_range': (0.4, 0.6),
+    'x_range': (0, 1),
+    'y_range': (0, 1),
     'cmap': 'coolwarm',
     'meshes': 'off',
     'normalization': 'on',
