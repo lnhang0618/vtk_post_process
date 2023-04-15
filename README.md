@@ -1,7 +1,7 @@
 # vtk_post_process
 
-# Post-Processing Tool for OpenFOAM Simulation
-This post-processing tool is designed to process and visualize the results of OpenFOAM simulations. It can handle various output variables such as temperature, pressure, velocity, and vorticity. 
+# Python-based Post-Processing Tool for OpenFOAM Simulations
+This post-processing tool is designed to process and visualize the results of OpenFOAM simulations using Python. It can handle various output variables such as temperature, pressure, velocity, and vorticity. 
 The tool is designed to be flexible and can be customized for different applications.
 
 ## Features
