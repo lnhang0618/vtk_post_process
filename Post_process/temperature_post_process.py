@@ -30,10 +30,7 @@ class Temperature_Post_Process(PostProcessBase):
         logging.info("cmap: %s", self.cmap)
         logging.info("grids: %s", self.meshes)
         logging.info("normalization: %s", self.normalization)
-        
-        
-        # 获取网格的点坐标
-        super().get_points()
+
         
         # 提取温度数据
         T = self.get_field("T")

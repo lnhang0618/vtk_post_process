@@ -32,9 +32,6 @@ class Velocity_Post_Process(PostProcessBase):
         logging.info("grids: %s", self.meshes)
         logging.info("normalization: %s", self.normalization)
 
-        # 获取网格的点坐标
-        super().get_points()
-        
         # 提取速度数据
         velocity = self.get_field("U")
         self.velocity_x = velocity[:, self.axis_map['x']]

@@ -7,6 +7,7 @@ from Post_process.vorticity_post_process import Vorticity_Post_Process
 from Post_process.temperature_post_process import Temperature_Post_Process
 from Post_process.velocity_post_process import Velocity_Post_Process
 from Post_process.pressure_post_process import Pressure_Post_Process
+
 import numpy as np
 from enum import Enum
 
@@ -18,18 +19,18 @@ class Choice(Enum):
 
 params = {
     'vtk_file': '/home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk',
-    'x_range': (0, 1),
-    'y_range': (0, 1),
+    'x_range': (0.4, 0.6),
+    'y_range': (0.4, 0.6),
     'cmap': 'coolwarm',
-    'meshes': 'on',
+    'meshes': 'off',
     'normalization': 'on',
     'axis_map': {'x': 0, 'y': 1, 'z': 2},
     'z_value': 0.0005,
     'component': 'all',
-    'with_vector': 'off'
+    'with_vector': 'on'
 }
 
-choices = [Choice.VORTICITY]
+choices = [Choice.VELOCITY]
 
 class PostProcessor:
     def __init__(self, params):

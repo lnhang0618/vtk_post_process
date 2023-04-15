@@ -29,9 +29,6 @@ class Pressure_Post_Process(PostProcessBase):
         logging.info("grids: %s", self.meshes)
         logging.info("normalization: %s", self.normalization)
         
-        # 获取网格的点坐标
-        super().get_points()
-        
         # 提取压力数据
         pressure = self.get_field("p")
         self.pressure = pressure
