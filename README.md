@@ -21,20 +21,20 @@ The tool is designed to be flexible and can be customized for different applicat
 
 ## Installation
 Clone this repository to your local machine:
-'''bash
+```bash
 Copy code
 git clone https://github.com/yourusername/post_process.git
-'''
+```
 Navigate to the repository folder:
-'''bash
+```bash
 Copy code
 cd post_process
-'''
+```
 Install the required Python packages:
-'''bash
+```bash
 Copy code
 pip install -r requirements.txt
-'''
+```
 ## Usage
 Edit the 'params' dictionary in 'main.py' to specify the input VTK file, desired variable ranges, colormap, and other settings.
 
@@ -42,14 +42,14 @@ Choose the variables you want to visualize by adding them to the 'choices' list 
 
 Run 'main.py':
 
-'''bash
+```bash
 Copy code
 python main.py
-'''
+```
 The script will generate and display the specified plots.
 
 ## Example
-'''python
+```python
 Copy code
 params = {
     'vtk_file': 'path/to/your/vtk_file.vtk',
@@ -68,7 +68,7 @@ choices = [Choice.VELOCITY]
 
 post_processor = PostProcessor(params=params)
 post_processor.process(choices=choices)
-'''
+```
 This example will visualize the velocity field for the specified VTK file.
 
 ## Contributing
