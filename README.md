@@ -6,33 +6,30 @@ The tool is designed to be flexible and can be customized for different applicat
 
 ## Features
 
--Supports generating contour plots of temperature, pressure, velocity, and vorticity fields.
--Allows for customization of axis mapping and normalization.
--Offers various colormap options for better data visualization.
--Provides options to display or hide mesh lines.
--Supports only 2D simulation data now.
+- Supports generating contour plots of temperature, pressure, velocity, and vorticity fields.
+- Allows for customization of axis mapping and normalization.
+- Offers various colormap options for better data visualization.
+- Provides options to display or hide mesh lines.
+- Supports only 2D simulation data now.
 
 ## Requirements
--Python 3.6 or higher
--NumPy
--Matplotlib
--VTK
--Enum
+- Python 3.6 or higher
+- NumPy
+- Matplotlib
+- VTK
+- Enum
 
 ## Installation
 Clone this repository to your local machine:
 ```bash
-Copy code
 git clone https://github.com/yourusername/post_process.git
 ```
 Navigate to the repository folder:
 ```bash
-Copy code
 cd post_process
 ```
 Install the required Python packages:
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 ## Usage
@@ -43,14 +40,12 @@ Choose the variables you want to visualize by adding them to the 'choices' list 
 Run 'main.py':
 
 ```bash
-Copy code
 python main.py
 ```
 The script will generate and display the specified plots.
 
 ## Example
 ```python
-Copy code
 params = {
     'vtk_file': 'path/to/your/vtk_file.vtk',
     'x_range': (0.4, 0.6),
