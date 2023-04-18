@@ -3,10 +3,10 @@ Created on April 11th 2023
 
 @author:LeonRho
 '''
-from Post_process.vorticity_post_process import Vorticity_Post_Process
-from Post_process.temperature_post_process import Temperature_Post_Process
-from Post_process.velocity_post_process import Velocity_Post_Process
-from Post_process.pressure_post_process import Pressure_Post_Process
+from Models.vorticity_post_process import Vorticity_Post_Process
+from Models.temperature_post_process import Temperature_Post_Process
+from Models.velocity_post_process import Velocity_Post_Process
+from Models.pressure_post_process import Pressure_Post_Process
 
 import numpy as np
 from enum import Enum
@@ -18,7 +18,7 @@ class Choice(Enum):
     VORTICITY = "vorticity"
 
 params = {
-    'vtk_file': '/home/lnhang/OpenFOAM/lnhang-dev/run/tutorials/incompressible/pimpleFoam/RAS/pitzDaily/VTK/pitzDaily_1206.vtk',
+    'vtk_file': './data/pitzDaily.vtk',
     'x_range': (0, 1),
     'y_range': (0, 1),
     'cmap': 'coolwarm',
