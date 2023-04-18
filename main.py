@@ -3,10 +3,10 @@ Created on April 11th 2023
 
 @author:LeonRho
 '''
-from Models.vorticity_post_process import Vorticity_Post_Process
-from Models.temperature_post_process import Temperature_Post_Process
-from Models.velocity_post_process import Velocity_Post_Process
-from Models.pressure_post_process import Pressure_Post_Process
+from scripts.vorticity_post_process import Vorticity_Post_Process
+from scripts.temperature_post_process import Temperature_Post_Process
+from scripts.velocity_post_process import Velocity_Post_Process
+from scripts.pressure_post_process import Pressure_Post_Process
 
 import numpy as np
 from enum import Enum

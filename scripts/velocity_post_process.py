@@ -4,7 +4,7 @@ Created on April 11th 2023
 @author:LeonRho
 '''
 import logging
-from .post_process_base import PostProcessBase
+from models.post_process_base import PostProcessBase
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.tri as tri
